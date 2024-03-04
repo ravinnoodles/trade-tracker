@@ -36,45 +36,39 @@
             var noTradeAllowed = null;
             var lists = null;
 
-            function init() {
-                $("#tracker").hide();
+            $("#tracker").hide();
 
-                // Your web app's Firebase configuration
-                const firebaseConfig = {
-                apiKey: "AIzaSyC0rBKRIOO0zvM04DRqz7zE_KYEGKsVZsQ",
-                authDomain: "trade-tracker-c1fa6.firebaseapp.com",
-                databaseURL: "https://trade-tracker-c1fa6-default-rtdb.firebaseio.com",
-                projectId: "trade-tracker-c1fa6",
-                storageBucket: "trade-tracker-c1fa6.appspot.com",
-                messagingSenderId: "77322068134",
-                appId: "1:77322068134:web:da77e03ab5550c78761467"
-                };
-            
-                // Initialize Firebase
-                firebase.initializeApp(firebaseConfig);
+            // Your web app's Firebase configuration
+            const firebaseConfig = {
+            apiKey: "AIzaSyC0rBKRIOO0zvM04DRqz7zE_KYEGKsVZsQ",
+            authDomain: "trade-tracker-c1fa6.firebaseapp.com",
+            databaseURL: "https://trade-tracker-c1fa6-default-rtdb.firebaseio.com",
+            projectId: "trade-tracker-c1fa6",
+            storageBucket: "trade-tracker-c1fa6.appspot.com",
+            messagingSenderId: "77322068134",
+            appId: "1:77322068134:web:da77e03ab5550c78761467"
+            };
+        
+            // Initialize Firebase
+            firebase.initializeApp(firebaseConfig);
 
-                firebase.auth().onAuthStateChanged((user) => {
-                    console.log(user);
+            firebase.auth().onAuthStateChanged((user) => {
+                console.log(user);
 
-                    firebase.database().ref('/').on("value", function(data) {
-                        regions = data.val().regions;
-                        pokemon = data.val().pokemon;
-                        noTradeAllowed = data.val().noTradeAllowed;
-                        lists = data.val().lists;
+                firebase.database().ref('/').on("value", function(data) {
+                    regions = data.val().regions;
+                    pokemon = data.val().pokemon;
+                    noTradeAllowed = data.val().noTradeAllowed;
+                    lists = data.val().lists;
 
-                        lists.forEach((row, i) => {
-                            var btn = $(`<a href="#" class="btn btn-primary trainerButton" data="${i}">${row.Trainer}</a>`)
-                            $("#trainers").append(btn);
-                        });
+                    lists.forEach((row, i) => {
+                        var btn = $(`<a href="#" class="btn btn-primary trainerButton" data="${i}">${row.Trainer}</a>`)
+                        $("#trainers").append(btn);
+                    });
 
-                        showInfo();
-                    })
-                });
-
-
-            }
-
-            window.addEventListener('DOMContentLoaded', init)
+                    showInfo();
+                })
+            });
 
             function showInfo() {             
 
