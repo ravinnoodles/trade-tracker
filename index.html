@@ -70,6 +70,8 @@
                     noTradeAllowed = data.val().noTradeAllowed;
                     lists = data.val().lists;
 
+                    $("#trainers").empty();
+
                     lists.forEach((row, i) => {
                         var btn = $(`<a href="#" class="btn btn-primary trainerButton" data="${i}">${row.trainer}</a>`)
                         $("#trainers").append(btn);
@@ -104,40 +106,43 @@
 
             function renderList(index) {
                 if (lists[index]) {
-                        currentContext = index;
-                        $("#list").empty();
-                        var needed = lists[index].needs;
-                        populateAdd(lists[index].needs);
-                        regions.forEach((region) => {
-                            var result = needed.filter((x) => x >= region.range.min && x <= region.range.max );
+                    currentContext = index;
+                    $("#list").empty();
+                    var needed = lists[index].needs;
+                    populateAdd(lists[index].needs);
+                    regions.forEach((region) => {
+                        var result = needed.filter((x) => x >= region.range.min && x <= region.range.max );
 
-                            var header = $(`<div class="card-header">${region.name}<div>`);
-                            var body = $(`<div class="card-body"></div>`);
+                        var header = $(`<div class="card-heade">${region.name}<div>`);
+                        var body = $(`<div class="card-body"></div>`);
 
-                            if (result.length > 0) {
-                                result.forEach((n, i) => {
-                                    var name = pokemon.find((x) => x.number == n).name;
-                                    var row = $(`<div id="${n}" class="row g-0"></div>`);
-                                    var img = $(`<div class="col-md-1"><img src="img/${n}.png" class="img-fluid"></div>`);
-                                    var cardbody = $(`<div class="col-md-3"><div class="card-body"><p class=" h4card-title">${name}</p></div></div>`);
-                                    var controls = $('<div class="col-md-8"><div class="card-body"><div class="btn-group"></div></div></div>');
-                                    controls.append($('<button type="button" class="btn btn-danger">remove</button>'));
-                                    row.append(img);
-                                    row.append(cardbody);
-                                    row.append(controls);
-                                    body.append(row)
-                                });
-                            } else {
-                                body.append('<p class="card-title">No needed Pokemon</p>');
-                            }
-                            
-                            var regionCard = $(`<div class="card my-2"></div>`);
-                            regionCard.append(header);
-                            regionCard.append(body);
+                        if (result.length > 0) {
+                            result.forEach((n, i) => {
+                                var name = pokemon.find((x) => x.number == n).name;
+                                var row = $(`<div id="${n}" class="row g-0"></div>`);
+                                var img = $(`<div class="col-md-2"><img src="img/${n}.png" class="img-fluid"></div>`);
+                                var cardbody = $(`<div class="col-md-10"><div class="card-body"></div></div>`);
+                                cardbody.append($(`<p class=" h4 card-title">${name}</p>`));
+                                cardbody.append($(`<button type="button" class="btn btn-danger deleteBtn" data="${n}">remove</button>`));
+                                row.append(img);
+                                row.append(cardbody);
+                                body.append(row)
+                            });
+                        } else {
+                            body.append('<p class="card-title">No needed Pokemon</p>');
+                        }
+                        
+                        var regionCard = $(`<div class="card my-2  ${region.name}"></div>`);
+                        regionCard.append(header);
+                        regionCard.append(body);
 
-                            $("#list").append(regionCard);
-                        })
-                    }
+                        $("#list").append(regionCard);
+                    })
+                    $(".deleteBtn").on("click", function() {
+                        var number = $(this).attr("data");
+                        removePokemon(number);
+                    });
+                }
             }
 
             function populateAdd(alreadySelected){
@@ -153,6 +158,15 @@
                 var mon = pokemon.find((x) => x.name === name);
                 if (mon) {
                     lists[currentContext].needs.push(mon.number);
+                    updateDb();
+                    renderList(currentContext);
+                }
+            }
+
+            function removePokemon(number) {
+                var mon = pokemon.find((x) => x.number === number);
+                if (mon) {
+                    lists[currentContext].needs = list[currentContext].needs.filter((X) => x != number);
                     updateDb();
                     renderList(currentContext);
                 }
