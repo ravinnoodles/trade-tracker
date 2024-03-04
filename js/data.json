@@ -92,3436 +92,3436 @@
   "noTradeAllowed": [ 151, 251, 385, 386, 489, 491, 492, 493, 494, 647, 648, 649, 718, 719, 720, 721, 801, 802, 893, 1025 ],
   "pokemon": [
     {
-      "Number": 1,
-      "Name": "Bulbasaur"
+      "number": 1,
+      "name": "Bulbasaur"
     },
     {
-      "Number": 2,
-      "Name": "Ivysaur"
+      "number": 2,
+      "name": "Ivysaur"
     },
     {
-      "Number": 3,
-      "Name": "Venusaur"
+      "number": 3,
+      "name": "Venusaur"
     },
     {
-      "Number": 4,
-      "Name": "Charmander"
+      "number": 4,
+      "name": "Charmander"
     },
     {
-      "Number": 5,
-      "Name": "Charmeleon"
+      "number": 5,
+      "name": "Charmeleon"
     },
     {
-      "Number": 6,
-      "Name": "Charizard"
+      "number": 6,
+      "name": "Charizard"
     },
     {
-      "Number": 7,
-      "Name": "Squirtle"
+      "number": 7,
+      "name": "Squirtle"
     },
     {
-      "Number": 8,
-      "Name": "Wartortle"
+      "number": 8,
+      "name": "Wartortle"
     },
     {
-      "Number": 9,
-      "Name": "Blastoise"
+      "number": 9,
+      "name": "Blastoise"
     },
     {
-      "Number": 10,
-      "Name": "Caterpie"
+      "number": 10,
+      "name": "Caterpie"
     },
     {
-      "Number": 11,
-      "Name": "Metapod"
+      "number": 11,
+      "name": "Metapod"
     },
     {
-      "Number": 12,
-      "Name": "Butterfree"
+      "number": 12,
+      "name": "Butterfree"
     },
     {
-      "Number": 13,
-      "Name": "Weedle"
+      "number": 13,
+      "name": "Weedle"
     },
     {
-      "Number": 14,
-      "Name": "Kakuna"
+      "number": 14,
+      "name": "Kakuna"
     },
     {
-      "Number": 15,
-      "Name": "Beedrill"
+      "number": 15,
+      "name": "Beedrill"
     },
     {
-      "Number": 16,
-      "Name": "Pidgey"
+      "number": 16,
+      "name": "Pidgey"
     },
     {
-      "Number": 17,
-      "Name": "Pidgeotto"
+      "number": 17,
+      "name": "Pidgeotto"
     },
     {
-      "Number": 18,
-      "Name": "Pidgeot"
+      "number": 18,
+      "name": "Pidgeot"
     },
     {
-      "Number": 19,
-      "Name": "Rattata"
+      "number": 19,
+      "name": "Rattata"
     },
     {
-      "Number": 20,
-      "Name": "Raticate"
+      "number": 20,
+      "name": "Raticate"
     },
     {
-      "Number": 21,
-      "Name": "Spearow"
+      "number": 21,
+      "name": "Spearow"
     },
     {
-      "Number": 22,
-      "Name": "Fearow"
+      "number": 22,
+      "name": "Fearow"
     },
     {
-      "Number": 23,
-      "Name": "Ekans"
+      "number": 23,
+      "name": "Ekans"
     },
     {
-      "Number": 24,
-      "Name": "Arbok"
+      "number": 24,
+      "name": "Arbok"
     },
     {
-      "Number": 25,
-      "Name": "Pikachu"
+      "number": 25,
+      "name": "Pikachu"
     },
     {
-      "Number": 26,
-      "Name": "Raichu"
+      "number": 26,
+      "name": "Raichu"
     },
     {
-      "Number": 27,
-      "Name": "Sandshrew"
+      "number": 27,
+      "name": "Sandshrew"
     },
     {
-      "Number": 28,
-      "Name": "Sandslash"
+      "number": 28,
+      "name": "Sandslash"
     },
     {
-      "Number": 29,
-      "Name": "Nidoran"
+      "number": 29,
+      "name": "Nidoran"
     },
     {
-      "Number": 30,
-      "Name": "Nidorina"
+      "number": 30,
+      "name": "Nidorina"
     },
     {
-      "Number": 31,
-      "Name": "Nidoqueen"
+      "number": 31,
+      "name": "Nidoqueen"
     },
     {
-      "Number": 32,
-      "Name": "Nidoran"
+      "number": 32,
+      "name": "Nidoran"
     },
     {
-      "Number": 33,
-      "Name": "Nidorino"
+      "number": 33,
+      "name": "Nidorino"
     },
     {
-      "Number": 34,
-      "Name": "Nidoking"
+      "number": 34,
+      "name": "Nidoking"
     },
     {
-      "Number": 35,
-      "Name": "Clefairy"
+      "number": 35,
+      "name": "Clefairy"
     },
     {
-      "Number": 36,
-      "Name": "Clefable"
+      "number": 36,
+      "name": "Clefable"
     },
     {
-      "Number": 37,
-      "Name": "Vulpix"
+      "number": 37,
+      "name": "Vulpix"
     },
     {
-      "Number": 38,
-      "Name": "Ninetales"
+      "number": 38,
+      "name": "Ninetales"
     },
     {
-      "Number": 39,
-      "Name": "Jigglypuff"
+      "number": 39,
+      "name": "Jigglypuff"
     },
     {
-      "Number": 40,
-      "Name": "Wigglytuff"
+      "number": 40,
+      "name": "Wigglytuff"
     },
     {
-      "Number": 41,
-      "Name": "Zubat"
+      "number": 41,
+      "name": "Zubat"
     },
     {
-      "Number": 42,
-      "Name": "Golbat"
+      "number": 42,
+      "name": "Golbat"
     },
     {
-      "Number": 43,
-      "Name": "Oddish"
+      "number": 43,
+      "name": "Oddish"
     },
     {
-      "Number": 44,
-      "Name": "Gloom"
+      "number": 44,
+      "name": "Gloom"
     },
     {
-      "Number": 45,
-      "Name": "Vileplume"
+      "number": 45,
+      "name": "Vileplume"
     },
     {
-      "Number": 46,
-      "Name": "Paras"
+      "number": 46,
+      "name": "Paras"
     },
     {
-      "Number": 47,
-      "Name": "Parasect"
+      "number": 47,
+      "name": "Parasect"
     },
     {
-      "Number": 48,
-      "Name": "Venonat"
+      "number": 48,
+      "name": "Venonat"
     },
     {
-      "Number": 49,
-      "Name": "Venomoth"
+      "number": 49,
+      "name": "Venomoth"
     },
     {
-      "Number": 50,
-      "Name": "Diglett"
+      "number": 50,
+      "name": "Diglett"
     },
     {
-      "Number": 51,
-      "Name": "Dugtrio"
+      "number": 51,
+      "name": "Dugtrio"
     },
     {
-      "Number": 52,
-      "Name": "Meowth"
+      "number": 52,
+      "name": "Meowth"
     },
     {
-      "Number": 53,
-      "Name": "Persian"
+      "number": 53,
+      "name": "Persian"
     },
     {
-      "Number": 54,
-      "Name": "Psyduck"
+      "number": 54,
+      "name": "Psyduck"
     },
     {
-      "Number": 55,
-      "Name": "Golduck"
+      "number": 55,
+      "name": "Golduck"
     },
     {
-      "Number": 56,
-      "Name": "Mankey"
+      "number": 56,
+      "name": "Mankey"
     },
     {
-      "Number": 57,
-      "Name": "Primeape"
+      "number": 57,
+      "name": "Primeape"
     },
     {
-      "Number": 58,
-      "Name": "Growlithe"
+      "number": 58,
+      "name": "Growlithe"
     },
     {
-      "Number": 59,
-      "Name": "Arcanine"
+      "number": 59,
+      "name": "Arcanine"
     },
     {
-      "Number": 60,
-      "Name": "Poliwag"
+      "number": 60,
+      "name": "Poliwag"
     },
     {
-      "Number": 61,
-      "Name": "Poliwhirl"
+      "number": 61,
+      "name": "Poliwhirl"
     },
     {
-      "Number": 62,
-      "Name": "Poliwrath"
+      "number": 62,
+      "name": "Poliwrath"
     },
     {
-      "Number": 63,
-      "Name": "Abra"
+      "number": 63,
+      "name": "Abra"
     },
     {
-      "Number": 64,
-      "Name": "Kadabra"
+      "number": 64,
+      "name": "Kadabra"
     },
     {
-      "Number": 65,
-      "Name": "Alakazam"
+      "number": 65,
+      "name": "Alakazam"
     },
     {
-      "Number": 66,
-      "Name": "Machop"
+      "number": 66,
+      "name": "Machop"
     },
     {
-      "Number": 67,
-      "Name": "Machoke"
+      "number": 67,
+      "name": "Machoke"
     },
     {
-      "Number": 68,
-      "Name": "Machamp"
+      "number": 68,
+      "name": "Machamp"
     },
     {
-      "Number": 69,
-      "Name": "Bellsprout"
+      "number": 69,
+      "name": "Bellsprout"
     },
     {
-      "Number": 70,
-      "Name": "Weepinbell"
+      "number": 70,
+      "name": "Weepinbell"
     },
     {
-      "Number": 71,
-      "Name": "Victreebel"
+      "number": 71,
+      "name": "Victreebel"
     },
     {
-      "Number": 72,
-      "Name": "Tentacool"
+      "number": 72,
+      "name": "Tentacool"
     },
     {
-      "Number": 73,
-      "Name": "Tentacruel"
+      "number": 73,
+      "name": "Tentacruel"
     },
     {
-      "Number": 74,
-      "Name": "Geodude"
+      "number": 74,
+      "name": "Geodude"
     },
     {
-      "Number": 75,
-      "Name": "Graveler"
+      "number": 75,
+      "name": "Graveler"
     },
     {
-      "Number": 76,
-      "Name": "Golem"
+      "number": 76,
+      "name": "Golem"
     },
     {
-      "Number": 77,
-      "Name": "Ponyta"
+      "number": 77,
+      "name": "Ponyta"
     },
     {
-      "Number": 78,
-      "Name": "Rapidash"
+      "number": 78,
+      "name": "Rapidash"
     },
     {
-      "Number": 79,
-      "Name": "Slowpoke"
+      "number": 79,
+      "name": "Slowpoke"
     },
     {
-      "Number": 80,
-      "Name": "Slowbro"
+      "number": 80,
+      "name": "Slowbro"
     },
     {
-      "Number": 81,
-      "Name": "Magnemite"
+      "number": 81,
+      "name": "Magnemite"
     },
     {
-      "Number": 82,
-      "Name": "Magneton"
+      "number": 82,
+      "name": "Magneton"
     },
     {
-      "Number": 83,
-      "Name": "Farfetchd"
+      "number": 83,
+      "name": "Farfetchd"
     },
     {
-      "Number": 84,
-      "Name": "Doduo"
+      "number": 84,
+      "name": "Doduo"
     },
     {
-      "Number": 85,
-      "Name": "Dodrio"
+      "number": 85,
+      "name": "Dodrio"
     },
     {
-      "Number": 86,
-      "Name": "Seel"
+      "number": 86,
+      "name": "Seel"
     },
     {
-      "Number": 87,
-      "Name": "Dewgong"
+      "number": 87,
+      "name": "Dewgong"
     },
     {
-      "Number": 88,
-      "Name": "Grimer"
+      "number": 88,
+      "name": "Grimer"
     },
     {
-      "Number": 89,
-      "Name": "Muk"
+      "number": 89,
+      "name": "Muk"
     },
     {
-      "Number": 90,
-      "Name": "Shellder"
+      "number": 90,
+      "name": "Shellder"
     },
     {
-      "Number": 91,
-      "Name": "Cloyster"
+      "number": 91,
+      "name": "Cloyster"
     },
     {
-      "Number": 92,
-      "Name": "Gastly"
+      "number": 92,
+      "name": "Gastly"
     },
     {
-      "Number": 93,
-      "Name": "Haunter"
+      "number": 93,
+      "name": "Haunter"
     },
     {
-      "Number": 94,
-      "Name": "Gengar"
+      "number": 94,
+      "name": "Gengar"
     },
     {
-      "Number": 95,
-      "Name": "Onix"
+      "number": 95,
+      "name": "Onix"
     },
     {
-      "Number": 96,
-      "Name": "Drowzee"
+      "number": 96,
+      "name": "Drowzee"
     },
     {
-      "Number": 97,
-      "Name": "Hypno"
+      "number": 97,
+      "name": "Hypno"
     },
     {
-      "Number": 98,
-      "Name": "Krabby"
+      "number": 98,
+      "name": "Krabby"
     },
     {
-      "Number": 99,
-      "Name": "Kingler"
+      "number": 99,
+      "name": "Kingler"
     },
     {
-      "Number": 100,
-      "Name": "Voltorb"
+      "number": 100,
+      "name": "Voltorb"
     },
     {
-      "Number": 101,
-      "Name": "Electrode"
+      "number": 101,
+      "name": "Electrode"
     },
     {
-      "Number": 102,
-      "Name": "Exeggcute"
+      "number": 102,
+      "name": "Exeggcute"
     },
     {
-      "Number": 103,
-      "Name": "Exeggutor"
+      "number": 103,
+      "name": "Exeggutor"
     },
     {
-      "Number": 104,
-      "Name": "Cubone"
+      "number": 104,
+      "name": "Cubone"
     },
     {
-      "Number": 105,
-      "Name": "Marowak"
+      "number": 105,
+      "name": "Marowak"
     },
     {
-      "Number": 106,
-      "Name": "Hitmonlee"
+      "number": 106,
+      "name": "Hitmonlee"
     },
     {
-      "Number": 107,
-      "Name": "Hitmonchan"
+      "number": 107,
+      "name": "Hitmonchan"
     },
     {
-      "Number": 108,
-      "Name": "Lickitung"
+      "number": 108,
+      "name": "Lickitung"
     },
     {
-      "Number": 109,
-      "Name": "Koffing"
+      "number": 109,
+      "name": "Koffing"
     },
     {
-      "Number": 110,
-      "Name": "Weezing"
+      "number": 110,
+      "name": "Weezing"
     },
     {
-      "Number": 111,
-      "Name": "Rhyhorn"
+      "number": 111,
+      "name": "Rhyhorn"
     },
     {
-      "Number": 112,
-      "Name": "Rhydon"
+      "number": 112,
+      "name": "Rhydon"
     },
     {
-      "Number": 113,
-      "Name": "Chansey"
+      "number": 113,
+      "name": "Chansey"
     },
     {
-      "Number": 114,
-      "Name": "Tangela"
+      "number": 114,
+      "name": "Tangela"
     },
     {
-      "Number": 115,
-      "Name": "Kangaskhan"
+      "number": 115,
+      "name": "Kangaskhan"
     },
     {
-      "Number": 116,
-      "Name": "Horsea"
+      "number": 116,
+      "name": "Horsea"
     },
     {
-      "Number": 117,
-      "Name": "Seadra"
+      "number": 117,
+      "name": "Seadra"
     },
     {
-      "Number": 118,
-      "Name": "Goldeen"
+      "number": 118,
+      "name": "Goldeen"
     },
     {
-      "Number": 119,
-      "Name": "Seaking"
+      "number": 119,
+      "name": "Seaking"
     },
     {
-      "Number": 120,
-      "Name": "Staryu"
+      "number": 120,
+      "name": "Staryu"
     },
     {
-      "Number": 121,
-      "Name": "Starmie"
+      "number": 121,
+      "name": "Starmie"
     },
     {
-      "Number": 122,
-      "Name": "Mr Mime"
+      "number": 122,
+      "name": "Mr Mime"
     },
     {
-      "Number": 123,
-      "Name": "Scyther"
+      "number": 123,
+      "name": "Scyther"
     },
     {
-      "Number": 124,
-      "Name": "Jynx"
+      "number": 124,
+      "name": "Jynx"
     },
     {
-      "Number": 125,
-      "Name": "Electabuzz"
+      "number": 125,
+      "name": "Electabuzz"
     },
     {
-      "Number": 126,
-      "Name": "Magmar"
+      "number": 126,
+      "name": "Magmar"
     },
     {
-      "Number": 127,
-      "Name": "Pinsir"
+      "number": 127,
+      "name": "Pinsir"
     },
     {
-      "Number": 128,
-      "Name": "Tauros"
+      "number": 128,
+      "name": "Tauros"
     },
     {
-      "Number": 129,
-      "Name": "Magikarp"
+      "number": 129,
+      "name": "Magikarp"
     },
     {
-      "Number": 130,
-      "Name": "Gyarados"
+      "number": 130,
+      "name": "Gyarados"
     },
     {
-      "Number": 131,
-      "Name": "Lapras"
+      "number": 131,
+      "name": "Lapras"
     },
     {
-      "Number": 132,
-      "Name": "Ditto"
+      "number": 132,
+      "name": "Ditto"
     },
     {
-      "Number": 133,
-      "Name": "Eevee"
+      "number": 133,
+      "name": "Eevee"
     },
     {
-      "Number": 134,
-      "Name": "Vaporeon"
+      "number": 134,
+      "name": "Vaporeon"
     },
     {
-      "Number": 135,
-      "Name": "Jolteon"
+      "number": 135,
+      "name": "Jolteon"
     },
     {
-      "Number": 136,
-      "Name": "Flareon"
+      "number": 136,
+      "name": "Flareon"
     },
     {
-      "Number": 137,
-      "Name": "Porygon"
+      "number": 137,
+      "name": "Porygon"
     },
     {
-      "Number": 138,
-      "Name": "Omanyte"
+      "number": 138,
+      "name": "Omanyte"
     },
     {
-      "Number": 139,
-      "Name": "Omastar"
+      "number": 139,
+      "name": "Omastar"
     },
     {
-      "Number": 140,
-      "Name": "Kabuto"
+      "number": 140,
+      "name": "Kabuto"
     },
     {
-      "Number": 141,
-      "Name": "Kabutops"
+      "number": 141,
+      "name": "Kabutops"
     },
     {
-      "Number": 142,
-      "Name": "Aerodactyl"
+      "number": 142,
+      "name": "Aerodactyl"
     },
     {
-      "Number": 143,
-      "Name": "Snorlax"
+      "number": 143,
+      "name": "Snorlax"
     },
     {
-      "Number": 144,
-      "Name": "Articuno"
+      "number": 144,
+      "name": "Articuno"
     },
     {
-      "Number": 145,
-      "Name": "Zapdos"
+      "number": 145,
+      "name": "Zapdos"
     },
     {
-      "Number": 146,
-      "Name": "Moltres"
+      "number": 146,
+      "name": "Moltres"
     },
     {
-      "Number": 147,
-      "Name": "Dratini"
+      "number": 147,
+      "name": "Dratini"
     },
     {
-      "Number": 148,
-      "Name": "Dragonair"
+      "number": 148,
+      "name": "Dragonair"
     },
     {
-      "Number": 149,
-      "Name": "Dragonite"
+      "number": 149,
+      "name": "Dragonite"
     },
     {
-      "Number": 150,
-      "Name": "Mewtwo"
+      "number": 150,
+      "name": "Mewtwo"
     },
     {
-      "Number": 151,
-      "Name": "Mew"
+      "number": 151,
+      "name": "Mew"
     },
     {
-      "Number": 152,
-      "Name": "Chikorita"
+      "number": 152,
+      "name": "Chikorita"
     },
     {
-      "Number": 153,
-      "Name": "Bayleef"
+      "number": 153,
+      "name": "Bayleef"
     },
     {
-      "Number": 154,
-      "Name": "Meganium"
+      "number": 154,
+      "name": "Meganium"
     },
     {
-      "Number": 155,
-      "Name": "Cyndaquil"
+      "number": 155,
+      "name": "Cyndaquil"
     },
     {
-      "Number": 156,
-      "Name": "Quilava"
+      "number": 156,
+      "name": "Quilava"
     },
     {
-      "Number": 157,
-      "Name": "Typhlosion"
+      "number": 157,
+      "name": "Typhlosion"
     },
     {
-      "Number": 158,
-      "Name": "Totodile"
+      "number": 158,
+      "name": "Totodile"
     },
     {
-      "Number": 159,
-      "Name": "Croconaw"
+      "number": 159,
+      "name": "Croconaw"
     },
     {
-      "Number": 160,
-      "Name": "Feraligatr"
+      "number": 160,
+      "name": "Feraligatr"
     },
     {
-      "Number": 161,
-      "Name": "Sentret"
+      "number": 161,
+      "name": "Sentret"
     },
     {
-      "Number": 162,
-      "Name": "Furret"
+      "number": 162,
+      "name": "Furret"
     },
     {
-      "Number": 163,
-      "Name": "Hoothoot"
+      "number": 163,
+      "name": "Hoothoot"
     },
     {
-      "Number": 164,
-      "Name": "Noctowl"
+      "number": 164,
+      "name": "Noctowl"
     },
     {
-      "Number": 165,
-      "Name": "Ledyba"
+      "number": 165,
+      "name": "Ledyba"
     },
     {
-      "Number": 166,
-      "Name": "Ledian"
+      "number": 166,
+      "name": "Ledian"
     },
     {
-      "Number": 167,
-      "Name": "Spinarak"
+      "number": 167,
+      "name": "Spinarak"
     },
     {
-      "Number": 168,
-      "Name": "Ariados"
+      "number": 168,
+      "name": "Ariados"
     },
     {
-      "Number": 169,
-      "Name": "Crobat"
+      "number": 169,
+      "name": "Crobat"
     },
     {
-      "Number": 170,
-      "Name": "Chinchou"
+      "number": 170,
+      "name": "Chinchou"
     },
     {
-      "Number": 171,
-      "Name": "Lanturn"
+      "number": 171,
+      "name": "Lanturn"
     },
     {
-      "Number": 172,
-      "Name": "Pichu"
+      "number": 172,
+      "name": "Pichu"
     },
     {
-      "Number": 173,
-      "Name": "Cleffa"
+      "number": 173,
+      "name": "Cleffa"
     },
     {
-      "Number": 174,
-      "Name": "Igglybuff"
+      "number": 174,
+      "name": "Igglybuff"
     },
     {
-      "Number": 175,
-      "Name": "Togepi"
+      "number": 175,
+      "name": "Togepi"
     },
     {
-      "Number": 176,
-      "Name": "Togetic"
+      "number": 176,
+      "name": "Togetic"
     },
     {
-      "Number": 177,
-      "Name": "Natu"
+      "number": 177,
+      "name": "Natu"
     },
     {
-      "Number": 178,
-      "Name": "Xatu"
+      "number": 178,
+      "name": "Xatu"
     },
     {
-      "Number": 179,
-      "Name": "Mareep"
+      "number": 179,
+      "name": "Mareep"
     },
     {
-      "Number": 180,
-      "Name": "Flaaffy"
+      "number": 180,
+      "name": "Flaaffy"
     },
     {
-      "Number": 181,
-      "Name": "Ampharos"
+      "number": 181,
+      "name": "Ampharos"
     },
     {
-      "Number": 182,
-      "Name": "Bellossom"
+      "number": 182,
+      "name": "Bellossom"
     },
     {
-      "Number": 183,
-      "Name": "Marill"
+      "number": 183,
+      "name": "Marill"
     },
     {
-      "Number": 184,
-      "Name": "Azumarill"
+      "number": 184,
+      "name": "Azumarill"
     },
     {
-      "Number": 185,
-      "Name": "Sudowoodo"
+      "number": 185,
+      "name": "Sudowoodo"
     },
     {
-      "Number": 186,
-      "Name": "Politoed"
+      "number": 186,
+      "name": "Politoed"
     },
     {
-      "Number": 187,
-      "Name": "Hoppip"
+      "number": 187,
+      "name": "Hoppip"
     },
     {
-      "Number": 188,
-      "Name": "Skiploom"
+      "number": 188,
+      "name": "Skiploom"
     },
     {
-      "Number": 189,
-      "Name": "Jumpluff"
+      "number": 189,
+      "name": "Jumpluff"
     },
     {
-      "Number": 190,
-      "Name": "Aipom"
+      "number": 190,
+      "name": "Aipom"
     },
     {
-      "Number": 191,
-      "Name": "Sunkern"
+      "number": 191,
+      "name": "Sunkern"
     },
     {
-      "Number": 192,
-      "Name": "Sunflora"
+      "number": 192,
+      "name": "Sunflora"
     },
     {
-      "Number": 193,
-      "Name": "Yanma"
+      "number": 193,
+      "name": "Yanma"
     },
     {
-      "Number": 194,
-      "Name": "Wooper"
+      "number": 194,
+      "name": "Wooper"
     },
     {
-      "Number": 195,
-      "Name": "Quagsire"
+      "number": 195,
+      "name": "Quagsire"
     },
     {
-      "Number": 196,
-      "Name": "Espeon"
+      "number": 196,
+      "name": "Espeon"
     },
     {
-      "Number": 197,
-      "Name": "Umbreon"
+      "number": 197,
+      "name": "Umbreon"
     },
     {
-      "Number": 198,
-      "Name": "Murkrow"
+      "number": 198,
+      "name": "Murkrow"
     },
     {
-      "Number": 199,
-      "Name": "Slowking"
+      "number": 199,
+      "name": "Slowking"
     },
     {
-      "Number": 200,
-      "Name": "Misdreavus"
+      "number": 200,
+      "name": "Misdreavus"
     },
     {
-      "Number": 201,
-      "Name": "Unown"
+      "number": 201,
+      "name": "Unown"
     },
     {
-      "Number": 202,
-      "Name": "Wobbuffet"
+      "number": 202,
+      "name": "Wobbuffet"
     },
     {
-      "Number": 203,
-      "Name": "Girafarig"
+      "number": 203,
+      "name": "Girafarig"
     },
     {
-      "Number": 204,
-      "Name": "Pineco"
+      "number": 204,
+      "name": "Pineco"
     },
     {
-      "Number": 205,
-      "Name": "Forretress"
+      "number": 205,
+      "name": "Forretress"
     },
     {
-      "Number": 206,
-      "Name": "Dunsparce"
+      "number": 206,
+      "name": "Dunsparce"
     },
     {
-      "Number": 207,
-      "Name": "Gligar"
+      "number": 207,
+      "name": "Gligar"
     },
     {
-      "Number": 208,
-      "Name": "Steelix"
+      "number": 208,
+      "name": "Steelix"
     },
     {
-      "Number": 209,
-      "Name": "Snubbull"
+      "number": 209,
+      "name": "Snubbull"
     },
     {
-      "Number": 210,
-      "Name": "Granbull"
+      "number": 210,
+      "name": "Granbull"
     },
     {
-      "Number": 211,
-      "Name": "Qwilfish"
+      "number": 211,
+      "name": "Qwilfish"
     },
     {
-      "Number": 212,
-      "Name": "Scizor"
+      "number": 212,
+      "name": "Scizor"
     },
     {
-      "Number": 213,
-      "Name": "Shuckle"
+      "number": 213,
+      "name": "Shuckle"
     },
     {
-      "Number": 214,
-      "Name": "Heracross"
+      "number": 214,
+      "name": "Heracross"
     },
     {
-      "Number": 215,
-      "Name": "Sneasel"
+      "number": 215,
+      "name": "Sneasel"
     },
     {
-      "Number": 216,
-      "Name": "Teddiursa"
+      "number": 216,
+      "name": "Teddiursa"
     },
     {
-      "Number": 217,
-      "Name": "Ursaring"
+      "number": 217,
+      "name": "Ursaring"
     },
     {
-      "Number": 218,
-      "Name": "Slugma"
+      "number": 218,
+      "name": "Slugma"
     },
     {
-      "Number": 219,
-      "Name": "Magcargo"
+      "number": 219,
+      "name": "Magcargo"
     },
     {
-      "Number": 220,
-      "Name": "Swinub"
+      "number": 220,
+      "name": "Swinub"
     },
     {
-      "Number": 221,
-      "Name": "Piloswine"
+      "number": 221,
+      "name": "Piloswine"
     },
     {
-      "Number": 222,
-      "Name": "Corsola"
+      "number": 222,
+      "name": "Corsola"
     },
     {
-      "Number": 223,
-      "Name": "Remoraid"
+      "number": 223,
+      "name": "Remoraid"
     },
     {
-      "Number": 224,
-      "Name": "Octillery"
+      "number": 224,
+      "name": "Octillery"
     },
     {
-      "Number": 225,
-      "Name": "Delibird"
+      "number": 225,
+      "name": "Delibird"
     },
     {
-      "Number": 226,
-      "Name": "Mantine"
+      "number": 226,
+      "name": "Mantine"
     },
     {
-      "Number": 227,
-      "Name": "Skarmory"
+      "number": 227,
+      "name": "Skarmory"
     },
     {
-      "Number": 228,
-      "Name": "Houndour"
+      "number": 228,
+      "name": "Houndour"
     },
     {
-      "Number": 229,
-      "Name": "Houndoom"
+      "number": 229,
+      "name": "Houndoom"
     },
     {
-      "Number": 230,
-      "Name": "Kingdra"
+      "number": 230,
+      "name": "Kingdra"
     },
     {
-      "Number": 231,
-      "Name": "Phanpy"
+      "number": 231,
+      "name": "Phanpy"
     },
     {
-      "Number": 232,
-      "Name": "Donphan"
+      "number": 232,
+      "name": "Donphan"
     },
     {
-      "Number": 233,
-      "Name": "Porygon2"
+      "number": 233,
+      "name": "Porygon2"
     },
     {
-      "Number": 234,
-      "Name": "Stantler"
+      "number": 234,
+      "name": "Stantler"
     },
     {
-      "Number": 235,
-      "Name": "Smeargle"
+      "number": 235,
+      "name": "Smeargle"
     },
     {
-      "Number": 236,
-      "Name": "Tyrogue"
+      "number": 236,
+      "name": "Tyrogue"
     },
     {
-      "Number": 237,
-      "Name": "Hitmontop"
+      "number": 237,
+      "name": "Hitmontop"
     },
     {
-      "Number": 238,
-      "Name": "Smoochum"
+      "number": 238,
+      "name": "Smoochum"
     },
     {
-      "Number": 239,
-      "Name": "Elekid"
+      "number": 239,
+      "name": "Elekid"
     },
     {
-      "Number": 240,
-      "Name": "Magby"
+      "number": 240,
+      "name": "Magby"
     },
     {
-      "Number": 241,
-      "Name": "Miltank"
+      "number": 241,
+      "name": "Miltank"
     },
     {
-      "Number": 242,
-      "Name": "Blissey"
+      "number": 242,
+      "name": "Blissey"
     },
     {
-      "Number": 243,
-      "Name": "Raikou"
+      "number": 243,
+      "name": "Raikou"
     },
     {
-      "Number": 244,
-      "Name": "Entei"
+      "number": 244,
+      "name": "Entei"
     },
     {
-      "Number": 245,
-      "Name": "Suicune"
+      "number": 245,
+      "name": "Suicune"
     },
     {
-      "Number": 246,
-      "Name": "Larvitar"
+      "number": 246,
+      "name": "Larvitar"
     },
     {
-      "Number": 247,
-      "Name": "Pupitar"
+      "number": 247,
+      "name": "Pupitar"
     },
     {
-      "Number": 248,
-      "Name": "Tyranitar"
+      "number": 248,
+      "name": "Tyranitar"
     },
     {
-      "Number": 249,
-      "Name": "Lugia"
+      "number": 249,
+      "name": "Lugia"
     },
     {
-      "Number": 250,
-      "Name": "Ho-Oh"
+      "number": 250,
+      "name": "Ho-Oh"
     },
     {
-      "Number": 251,
-      "Name": "Celebi"
+      "number": 251,
+      "name": "Celebi"
     },
     {
-      "Number": 252,
-      "Name": "Treecko"
+      "number": 252,
+      "name": "Treecko"
     },
     {
-      "Number": 253,
-      "Name": "Grovyle"
+      "number": 253,
+      "name": "Grovyle"
     },
     {
-      "Number": 254,
-      "Name": "Sceptile"
+      "number": 254,
+      "name": "Sceptile"
     },
     {
-      "Number": 255,
-      "Name": "Torchic"
+      "number": 255,
+      "name": "Torchic"
     },
     {
-      "Number": 256,
-      "Name": "Combusken"
+      "number": 256,
+      "name": "Combusken"
     },
     {
-      "Number": 257,
-      "Name": "Blaziken"
+      "number": 257,
+      "name": "Blaziken"
     },
     {
-      "Number": 258,
-      "Name": "Mudkip"
+      "number": 258,
+      "name": "Mudkip"
     },
     {
-      "Number": 259,
-      "Name": "Marshtomp"
+      "number": 259,
+      "name": "Marshtomp"
     },
     {
-      "Number": 260,
-      "Name": "Swampert"
+      "number": 260,
+      "name": "Swampert"
     },
     {
-      "Number": 261,
-      "Name": "Poochyena"
+      "number": 261,
+      "name": "Poochyena"
     },
     {
-      "Number": 262,
-      "Name": "Mightyena"
+      "number": 262,
+      "name": "Mightyena"
     },
     {
-      "Number": 263,
-      "Name": "Zigzagoon"
+      "number": 263,
+      "name": "Zigzagoon"
     },
     {
-      "Number": 264,
-      "Name": "Linoone"
+      "number": 264,
+      "name": "Linoone"
     },
     {
-      "Number": 265,
-      "Name": "Wurmple"
+      "number": 265,
+      "name": "Wurmple"
     },
     {
-      "Number": 266,
-      "Name": "Silcoon"
+      "number": 266,
+      "name": "Silcoon"
     },
     {
-      "Number": 267,
-      "Name": "Beautifly"
+      "number": 267,
+      "name": "Beautifly"
     },
     {
-      "Number": 268,
-      "Name": "Cascoon"
+      "number": 268,
+      "name": "Cascoon"
     },
     {
-      "Number": 269,
-      "Name": "Dustox"
+      "number": 269,
+      "name": "Dustox"
     },
     {
-      "Number": 270,
-      "Name": "Lotad"
+      "number": 270,
+      "name": "Lotad"
     },
     {
-      "Number": 271,
-      "Name": "Lombre"
+      "number": 271,
+      "name": "Lombre"
     },
     {
-      "Number": 272,
-      "Name": "Ludicolo"
+      "number": 272,
+      "name": "Ludicolo"
     },
     {
-      "Number": 273,
-      "Name": "Seedot"
+      "number": 273,
+      "name": "Seedot"
     },
     {
-      "Number": 274,
-      "Name": "Nuzleaf"
+      "number": 274,
+      "name": "Nuzleaf"
     },
     {
-      "Number": 275,
-      "Name": "Shiftry"
+      "number": 275,
+      "name": "Shiftry"
     },
     {
-      "Number": 276,
-      "Name": "Taillow"
+      "number": 276,
+      "name": "Taillow"
     },
     {
-      "Number": 277,
-      "Name": "Swellow"
+      "number": 277,
+      "name": "Swellow"
     },
     {
-      "Number": 278,
-      "Name": "Wingull"
+      "number": 278,
+      "name": "Wingull"
     },
     {
-      "Number": 279,
-      "Name": "Pelipper"
+      "number": 279,
+      "name": "Pelipper"
     },
     {
-      "Number": 280,
-      "Name": "Ralts"
+      "number": 280,
+      "name": "Ralts"
     },
     {
-      "Number": 281,
-      "Name": "Kirlia"
+      "number": 281,
+      "name": "Kirlia"
     },
     {
-      "Number": 282,
-      "Name": "Gardevoir"
+      "number": 282,
+      "name": "Gardevoir"
     },
     {
-      "Number": 283,
-      "Name": "Surskit"
+      "number": 283,
+      "name": "Surskit"
     },
     {
-      "Number": 284,
-      "Name": "Masquerain"
+      "number": 284,
+      "name": "Masquerain"
     },
     {
-      "Number": 285,
-      "Name": "Shroomish"
+      "number": 285,
+      "name": "Shroomish"
     },
     {
-      "Number": 286,
-      "Name": "Breloom"
+      "number": 286,
+      "name": "Breloom"
     },
     {
-      "Number": 287,
-      "Name": "Slakoth"
+      "number": 287,
+      "name": "Slakoth"
     },
     {
-      "Number": 288,
-      "Name": "Vigoroth"
+      "number": 288,
+      "name": "Vigoroth"
     },
     {
-      "Number": 289,
-      "Name": "Slaking"
+      "number": 289,
+      "name": "Slaking"
     },
     {
-      "Number": 290,
-      "Name": "Nincada"
+      "number": 290,
+      "name": "Nincada"
     },
     {
-      "Number": 291,
-      "Name": "Ninjask"
+      "number": 291,
+      "name": "Ninjask"
     },
     {
-      "Number": 292,
-      "Name": "Shedinja"
+      "number": 292,
+      "name": "Shedinja"
     },
     {
-      "Number": 293,
-      "Name": "Whismur"
+      "number": 293,
+      "name": "Whismur"
     },
     {
-      "Number": 294,
-      "Name": "Loudred"
+      "number": 294,
+      "name": "Loudred"
     },
     {
-      "Number": 295,
-      "Name": "Exploud"
+      "number": 295,
+      "name": "Exploud"
     },
     {
-      "Number": 296,
-      "Name": "Makuhita"
+      "number": 296,
+      "name": "Makuhita"
     },
     {
-      "Number": 297,
-      "Name": "Hariyama"
+      "number": 297,
+      "name": "Hariyama"
     },
     {
-      "Number": 298,
-      "Name": "Azurill"
+      "number": 298,
+      "name": "Azurill"
     },
     {
-      "Number": 299,
-      "Name": "Nosepass"
+      "number": 299,
+      "name": "Nosepass"
     },
     {
-      "Number": 300,
-      "Name": "Skitty"
+      "number": 300,
+      "name": "Skitty"
     },
     {
-      "Number": 301,
-      "Name": "Delcatty"
+      "number": 301,
+      "name": "Delcatty"
     },
     {
-      "Number": 302,
-      "Name": "Sableye"
+      "number": 302,
+      "name": "Sableye"
     },
     {
-      "Number": 303,
-      "Name": "Mawile"
+      "number": 303,
+      "name": "Mawile"
     },
     {
-      "Number": 304,
-      "Name": "Aron"
+      "number": 304,
+      "name": "Aron"
     },
     {
-      "Number": 305,
-      "Name": "Lairon"
+      "number": 305,
+      "name": "Lairon"
     },
     {
-      "Number": 306,
-      "Name": "Aggron"
+      "number": 306,
+      "name": "Aggron"
     },
     {
-      "Number": 307,
-      "Name": "Meditite"
+      "number": 307,
+      "name": "Meditite"
     },
     {
-      "Number": 308,
-      "Name": "Medicham"
+      "number": 308,
+      "name": "Medicham"
     },
     {
-      "Number": 309,
-      "Name": "Electrike"
+      "number": 309,
+      "name": "Electrike"
     },
     {
-      "Number": 310,
-      "Name": "Manectric"
+      "number": 310,
+      "name": "Manectric"
     },
     {
-      "Number": 311,
-      "Name": "Plusle"
+      "number": 311,
+      "name": "Plusle"
     },
     {
-      "Number": 312,
-      "Name": "Minun"
+      "number": 312,
+      "name": "Minun"
     },
     {
-      "Number": 313,
-      "Name": "Volbeat"
+      "number": 313,
+      "name": "Volbeat"
     },
     {
-      "Number": 314,
-      "Name": "Illumise"
+      "number": 314,
+      "name": "Illumise"
     },
     {
-      "Number": 315,
-      "Name": "Roselia"
+      "number": 315,
+      "name": "Roselia"
     },
     {
-      "Number": 316,
-      "Name": "Gulpin"
+      "number": 316,
+      "name": "Gulpin"
     },
     {
-      "Number": 317,
-      "Name": "Swalot"
+      "number": 317,
+      "name": "Swalot"
     },
     {
-      "Number": 318,
-      "Name": "Carvanha"
+      "number": 318,
+      "name": "Carvanha"
     },
     {
-      "Number": 319,
-      "Name": "Sharpedo"
+      "number": 319,
+      "name": "Sharpedo"
     },
     {
-      "Number": 320,
-      "Name": "Wailmer"
+      "number": 320,
+      "name": "Wailmer"
     },
     {
-      "Number": 321,
-      "Name": "Wailord"
+      "number": 321,
+      "name": "Wailord"
     },
     {
-      "Number": 322,
-      "Name": "Numel"
+      "number": 322,
+      "name": "Numel"
     },
     {
-      "Number": 323,
-      "Name": "Camerupt"
+      "number": 323,
+      "name": "Camerupt"
     },
     {
-      "Number": 324,
-      "Name": "Torkoal"
+      "number": 324,
+      "name": "Torkoal"
     },
     {
-      "Number": 325,
-      "Name": "Spoink"
+      "number": 325,
+      "name": "Spoink"
     },
     {
-      "Number": 326,
-      "Name": "Grumpig"
+      "number": 326,
+      "name": "Grumpig"
     },
     {
-      "Number": 327,
-      "Name": "Spinda"
+      "number": 327,
+      "name": "Spinda"
     },
     {
-      "Number": 328,
-      "Name": "Trapinch"
+      "number": 328,
+      "name": "Trapinch"
     },
     {
-      "Number": 329,
-      "Name": "Vibrava"
+      "number": 329,
+      "name": "Vibrava"
     },
     {
-      "Number": 330,
-      "Name": "Flygon"
+      "number": 330,
+      "name": "Flygon"
     },
     {
-      "Number": 331,
-      "Name": "Cacnea"
+      "number": 331,
+      "name": "Cacnea"
     },
     {
-      "Number": 332,
-      "Name": "Cacturne"
+      "number": 332,
+      "name": "Cacturne"
     },
     {
-      "Number": 333,
-      "Name": "Swablu"
+      "number": 333,
+      "name": "Swablu"
     },
     {
-      "Number": 334,
-      "Name": "Altaria"
+      "number": 334,
+      "name": "Altaria"
     },
     {
-      "Number": 335,
-      "Name": "Zangoose"
+      "number": 335,
+      "name": "Zangoose"
     },
     {
-      "Number": 336,
-      "Name": "Seviper"
+      "number": 336,
+      "name": "Seviper"
     },
     {
-      "Number": 337,
-      "Name": "Lunatone"
+      "number": 337,
+      "name": "Lunatone"
     },
     {
-      "Number": 338,
-      "Name": "Solrock"
+      "number": 338,
+      "name": "Solrock"
     },
     {
-      "Number": 339,
-      "Name": "Barboach"
+      "number": 339,
+      "name": "Barboach"
     },
     {
-      "Number": 340,
-      "Name": "Whiscash"
+      "number": 340,
+      "name": "Whiscash"
     },
     {
-      "Number": 341,
-      "Name": "Corphish"
+      "number": 341,
+      "name": "Corphish"
     },
     {
-      "Number": 342,
-      "Name": "Crawdaunt"
+      "number": 342,
+      "name": "Crawdaunt"
     },
     {
-      "Number": 343,
-      "Name": "Baltoy"
+      "number": 343,
+      "name": "Baltoy"
     },
     {
-      "Number": 344,
-      "Name": "Claydol"
+      "number": 344,
+      "name": "Claydol"
     },
     {
-      "Number": 345,
-      "Name": "Lileep"
+      "number": 345,
+      "name": "Lileep"
     },
     {
-      "Number": 346,
-      "Name": "Cradily"
+      "number": 346,
+      "name": "Cradily"
     },
     {
-      "Number": 347,
-      "Name": "Anorith"
+      "number": 347,
+      "name": "Anorith"
     },
     {
-      "Number": 348,
-      "Name": "Armaldo"
+      "number": 348,
+      "name": "Armaldo"
     },
     {
-      "Number": 349,
-      "Name": "Feebas"
+      "number": 349,
+      "name": "Feebas"
     },
     {
-      "Number": 350,
-      "Name": "Milotic"
+      "number": 350,
+      "name": "Milotic"
     },
     {
-      "Number": 351,
-      "Name": "Castform"
+      "number": 351,
+      "name": "Castform"
     },
     {
-      "Number": 352,
-      "Name": "Kecleon"
+      "number": 352,
+      "name": "Kecleon"
     },
     {
-      "Number": 353,
-      "Name": "Shuppet"
+      "number": 353,
+      "name": "Shuppet"
     },
     {
-      "Number": 354,
-      "Name": "Banette"
+      "number": 354,
+      "name": "Banette"
     },
     {
-      "Number": 355,
-      "Name": "Duskull"
+      "number": 355,
+      "name": "Duskull"
     },
     {
-      "Number": 356,
-      "Name": "Dusclops"
+      "number": 356,
+      "name": "Dusclops"
     },
     {
-      "Number": 357,
-      "Name": "Tropius"
+      "number": 357,
+      "name": "Tropius"
     },
     {
-      "Number": 358,
-      "Name": "Chimecho"
+      "number": 358,
+      "name": "Chimecho"
     },
     {
-      "Number": 359,
-      "Name": "Absol"
+      "number": 359,
+      "name": "Absol"
     },
     {
-      "Number": 360,
-      "Name": "Wynaut"
+      "number": 360,
+      "name": "Wynaut"
     },
     {
-      "Number": 361,
-      "Name": "Snorunt"
+      "number": 361,
+      "name": "Snorunt"
     },
     {
-      "Number": 362,
-      "Name": "Glalie"
+      "number": 362,
+      "name": "Glalie"
     },
     {
-      "Number": 363,
-      "Name": "Spheal"
+      "number": 363,
+      "name": "Spheal"
     },
     {
-      "Number": 364,
-      "Name": "Sealeo"
+      "number": 364,
+      "name": "Sealeo"
     },
     {
-      "Number": 365,
-      "Name": "Walrein"
+      "number": 365,
+      "name": "Walrein"
     },
     {
-      "Number": 366,
-      "Name": "Clamperl"
+      "number": 366,
+      "name": "Clamperl"
     },
     {
-      "Number": 367,
-      "Name": "Huntail"
+      "number": 367,
+      "name": "Huntail"
     },
     {
-      "Number": 368,
-      "Name": "Gorebyss"
+      "number": 368,
+      "name": "Gorebyss"
     },
     {
-      "Number": 369,
-      "Name": "Relicanth"
+      "number": 369,
+      "name": "Relicanth"
     },
     {
-      "Number": 370,
-      "Name": "Luvdisc"
+      "number": 370,
+      "name": "Luvdisc"
     },
     {
-      "Number": 371,
-      "Name": "Bagon"
+      "number": 371,
+      "name": "Bagon"
     },
     {
-      "Number": 372,
-      "Name": "Shelgon"
+      "number": 372,
+      "name": "Shelgon"
     },
     {
-      "Number": 373,
-      "Name": "Salamence"
+      "number": 373,
+      "name": "Salamence"
     },
     {
-      "Number": 374,
-      "Name": "Beldum"
+      "number": 374,
+      "name": "Beldum"
     },
     {
-      "Number": 375,
-      "Name": "Metang"
+      "number": 375,
+      "name": "Metang"
     },
     {
-      "Number": 376,
-      "Name": "Metagross"
+      "number": 376,
+      "name": "Metagross"
     },
     {
-      "Number": 377,
-      "Name": "Regirock"
+      "number": 377,
+      "name": "Regirock"
     },
     {
-      "Number": 378,
-      "Name": "Regice"
+      "number": 378,
+      "name": "Regice"
     },
     {
-      "Number": 379,
-      "Name": "Registeel"
+      "number": 379,
+      "name": "Registeel"
     },
     {
-      "Number": 380,
-      "Name": "Latias"
+      "number": 380,
+      "name": "Latias"
     },
     {
-      "Number": 381,
-      "Name": "Latios"
+      "number": 381,
+      "name": "Latios"
     },
     {
-      "Number": 382,
-      "Name": "Kyogre"
+      "number": 382,
+      "name": "Kyogre"
     },
     {
-      "Number": 383,
-      "Name": "Groudon"
+      "number": 383,
+      "name": "Groudon"
     },
     {
-      "Number": 384,
-      "Name": "Rayquaza"
+      "number": 384,
+      "name": "Rayquaza"
     },
     {
-      "Number": 385,
-      "Name": "Jirachi"
+      "number": 385,
+      "name": "Jirachi"
     },
     {
-      "Number": 386,
-      "Name": "Deoxys"
+      "number": 386,
+      "name": "Deoxys"
     },
     {
-      "Number": 387,
-      "Name": "Turtwig"
+      "number": 387,
+      "name": "Turtwig"
     },
     {
-      "Number": 388,
-      "Name": "Grotle"
+      "number": 388,
+      "name": "Grotle"
     },
     {
-      "Number": 389,
-      "Name": "Torterra"
+      "number": 389,
+      "name": "Torterra"
     },
     {
-      "Number": 390,
-      "Name": "Chimchar"
+      "number": 390,
+      "name": "Chimchar"
     },
     {
-      "Number": 391,
-      "Name": "Monferno"
+      "number": 391,
+      "name": "Monferno"
     },
     {
-      "Number": 392,
-      "Name": "Infernape"
+      "number": 392,
+      "name": "Infernape"
     },
     {
-      "Number": 393,
-      "Name": "Piplup"
+      "number": 393,
+      "name": "Piplup"
     },
     {
-      "Number": 394,
-      "Name": "Prinplup"
+      "number": 394,
+      "name": "Prinplup"
     },
     {
-      "Number": 395,
-      "Name": "Empoleon"
+      "number": 395,
+      "name": "Empoleon"
     },
     {
-      "Number": 396,
-      "Name": "Starly"
+      "number": 396,
+      "name": "Starly"
     },
     {
-      "Number": 397,
-      "Name": "Staravia"
+      "number": 397,
+      "name": "Staravia"
     },
     {
-      "Number": 398,
-      "Name": "Staraptor"
+      "number": 398,
+      "name": "Staraptor"
     },
     {
-      "Number": 399,
-      "Name": "Bidoof"
+      "number": 399,
+      "name": "Bidoof"
     },
     {
-      "Number": 400,
-      "Name": "Bibarel"
+      "number": 400,
+      "name": "Bibarel"
     },
     {
-      "Number": 401,
-      "Name": "Kricketot"
+      "number": 401,
+      "name": "Kricketot"
     },
     {
-      "Number": 402,
-      "Name": "Kricketune"
+      "number": 402,
+      "name": "Kricketune"
     },
     {
-      "Number": 403,
-      "Name": "Shinx"
+      "number": 403,
+      "name": "Shinx"
     },
     {
-      "Number": 404,
-      "Name": "Luxio"
+      "number": 404,
+      "name": "Luxio"
     },
     {
-      "Number": 405,
-      "Name": "Luxray"
+      "number": 405,
+      "name": "Luxray"
     },
     {
-      "Number": 406,
-      "Name": "Budew"
+      "number": 406,
+      "name": "Budew"
     },
     {
-      "Number": 407,
-      "Name": "Roserade"
+      "number": 407,
+      "name": "Roserade"
     },
     {
-      "Number": 408,
-      "Name": "Cranidos"
+      "number": 408,
+      "name": "Cranidos"
     },
     {
-      "Number": 409,
-      "Name": "Rampardos"
+      "number": 409,
+      "name": "Rampardos"
     },
     {
-      "Number": 410,
-      "Name": "Shieldon"
+      "number": 410,
+      "name": "Shieldon"
     },
     {
-      "Number": 411,
-      "Name": "Bastiodon"
+      "number": 411,
+      "name": "Bastiodon"
     },
     {
-      "Number": 412,
-      "Name": "Burmy"
+      "number": 412,
+      "name": "Burmy"
     },
     {
-      "Number": 413,
-      "Name": "Wormadam"
+      "number": 413,
+      "name": "Wormadam"
     },
     {
-      "Number": 414,
-      "Name": "Mothim"
+      "number": 414,
+      "name": "Mothim"
     },
     {
-      "Number": 415,
-      "Name": "Combee"
+      "number": 415,
+      "name": "Combee"
     },
     {
-      "Number": 416,
-      "Name": "Vespiquen"
+      "number": 416,
+      "name": "Vespiquen"
     },
     {
-      "Number": 417,
-      "Name": "Pachirisu"
+      "number": 417,
+      "name": "Pachirisu"
     },
     {
-      "Number": 418,
-      "Name": "Buizel"
+      "number": 418,
+      "name": "Buizel"
     },
     {
-      "Number": 419,
-      "Name": "Floatzel"
+      "number": 419,
+      "name": "Floatzel"
     },
     {
-      "Number": 420,
-      "Name": "Cherubi"
+      "number": 420,
+      "name": "Cherubi"
     },
     {
-      "Number": 421,
-      "Name": "Cherrim"
+      "number": 421,
+      "name": "Cherrim"
     },
     {
-      "Number": 422,
-      "Name": "Shellos"
+      "number": 422,
+      "name": "Shellos"
     },
     {
-      "Number": 423,
-      "Name": "Gastrodon"
+      "number": 423,
+      "name": "Gastrodon"
     },
     {
-      "Number": 424,
-      "Name": "Ambipom"
+      "number": 424,
+      "name": "Ambipom"
     },
     {
-      "Number": 425,
-      "Name": "Drifloon"
+      "number": 425,
+      "name": "Drifloon"
     },
     {
-      "Number": 426,
-      "Name": "Drifblim"
+      "number": 426,
+      "name": "Drifblim"
     },
     {
-      "Number": 427,
-      "Name": "Buneary"
+      "number": 427,
+      "name": "Buneary"
     },
     {
-      "Number": 428,
-      "Name": "Lopunny"
+      "number": 428,
+      "name": "Lopunny"
     },
     {
-      "Number": 429,
-      "Name": "Mismagius"
+      "number": 429,
+      "name": "Mismagius"
     },
     {
-      "Number": 430,
-      "Name": "Honchkrow"
+      "number": 430,
+      "name": "Honchkrow"
     },
     {
-      "Number": 431,
-      "Name": "Glameow"
+      "number": 431,
+      "name": "Glameow"
     },
     {
-      "Number": 432,
-      "Name": "Purugly"
+      "number": 432,
+      "name": "Purugly"
     },
     {
-      "Number": 433,
-      "Name": "Chingling"
+      "number": 433,
+      "name": "Chingling"
     },
     {
-      "Number": 434,
-      "Name": "Stunky"
+      "number": 434,
+      "name": "Stunky"
     },
     {
-      "Number": 435,
-      "Name": "Skuntank"
+      "number": 435,
+      "name": "Skuntank"
     },
     {
-      "Number": 436,
-      "Name": "Bronzor"
+      "number": 436,
+      "name": "Bronzor"
     },
     {
-      "Number": 437,
-      "Name": "Bronzong"
+      "number": 437,
+      "name": "Bronzong"
     },
     {
-      "Number": 438,
-      "Name": "Bonsly"
+      "number": 438,
+      "name": "Bonsly"
     },
     {
-      "Number": 439,
-      "Name": "Mime Jr"
+      "number": 439,
+      "name": "Mime Jr"
     },
     {
-      "Number": 440,
-      "Name": "Happiny"
+      "number": 440,
+      "name": "Happiny"
     },
     {
-      "Number": 441,
-      "Name": "Chatot"
+      "number": 441,
+      "name": "Chatot"
     },
     {
-      "Number": 442,
-      "Name": "Spiritomb"
+      "number": 442,
+      "name": "Spiritomb"
     },
     {
-      "Number": 443,
-      "Name": "Gible"
+      "number": 443,
+      "name": "Gible"
     },
     {
-      "Number": 444,
-      "Name": "Gabite"
+      "number": 444,
+      "name": "Gabite"
     },
     {
-      "Number": 445,
-      "Name": "Garchomp"
+      "number": 445,
+      "name": "Garchomp"
     },
     {
-      "Number": 446,
-      "Name": "Munchlax"
+      "number": 446,
+      "name": "Munchlax"
     },
     {
-      "Number": 447,
-      "Name": "Riolu"
+      "number": 447,
+      "name": "Riolu"
     },
     {
-      "Number": 448,
-      "Name": "Lucario"
+      "number": 448,
+      "name": "Lucario"
     },
     {
-      "Number": 449,
-      "Name": "Hippopotas"
+      "number": 449,
+      "name": "Hippopotas"
     },
     {
-      "Number": 450,
-      "Name": "Hippowdon"
+      "number": 450,
+      "name": "Hippowdon"
     },
     {
-      "Number": 451,
-      "Name": "Skorupi"
+      "number": 451,
+      "name": "Skorupi"
     },
     {
-      "Number": 452,
-      "Name": "Drapion"
+      "number": 452,
+      "name": "Drapion"
     },
     {
-      "Number": 453,
-      "Name": "Croagunk"
+      "number": 453,
+      "name": "Croagunk"
     },
     {
-      "Number": 454,
-      "Name": "Toxicroak"
+      "number": 454,
+      "name": "Toxicroak"
     },
     {
-      "Number": 455,
-      "Name": "Carnivine"
+      "number": 455,
+      "name": "Carnivine"
     },
     {
-      "Number": 456,
-      "Name": "Finneon"
+      "number": 456,
+      "name": "Finneon"
     },
     {
-      "Number": 457,
-      "Name": "Lumineon"
+      "number": 457,
+      "name": "Lumineon"
     },
     {
-      "Number": 458,
-      "Name": "Mantyke"
+      "number": 458,
+      "name": "Mantyke"
     },
     {
-      "Number": 459,
-      "Name": "Snover"
+      "number": 459,
+      "name": "Snover"
     },
     {
-      "Number": 460,
-      "Name": "Abomasnow"
+      "number": 460,
+      "name": "Abomasnow"
     },
     {
-      "Number": 461,
-      "Name": "Weavile"
+      "number": 461,
+      "name": "Weavile"
     },
     {
-      "Number": 462,
-      "Name": "Magnezone"
+      "number": 462,
+      "name": "Magnezone"
     },
     {
-      "Number": 463,
-      "Name": "Lickilicky"
+      "number": 463,
+      "name": "Lickilicky"
     },
     {
-      "Number": 464,
-      "Name": "Rhyperior"
+      "number": 464,
+      "name": "Rhyperior"
     },
     {
-      "Number": 465,
-      "Name": "Tangrowth"
+      "number": 465,
+      "name": "Tangrowth"
     },
     {
-      "Number": 466,
-      "Name": "Electivire"
+      "number": 466,
+      "name": "Electivire"
     },
     {
-      "Number": 467,
-      "Name": "Magmortar"
+      "number": 467,
+      "name": "Magmortar"
     },
     {
-      "Number": 468,
-      "Name": "Togekiss"
+      "number": 468,
+      "name": "Togekiss"
     },
     {
-      "Number": 469,
-      "Name": "Yanmega"
+      "number": 469,
+      "name": "Yanmega"
     },
     {
-      "Number": 470,
-      "Name": "Leafeon"
+      "number": 470,
+      "name": "Leafeon"
     },
     {
-      "Number": 471,
-      "Name": "Glaceon"
+      "number": 471,
+      "name": "Glaceon"
     },
     {
-      "Number": 472,
-      "Name": "Gliscor"
+      "number": 472,
+      "name": "Gliscor"
     },
     {
-      "Number": 473,
-      "Name": "Mamoswine"
+      "number": 473,
+      "name": "Mamoswine"
     },
     {
-      "Number": 474,
-      "Name": "Porygon-Z"
+      "number": 474,
+      "name": "Porygon-Z"
     },
     {
-      "Number": 475,
-      "Name": "Gallade"
+      "number": 475,
+      "name": "Gallade"
     },
     {
-      "Number": 476,
-      "Name": "Probopass"
+      "number": 476,
+      "name": "Probopass"
     },
     {
-      "Number": 477,
-      "Name": "Dusknoir"
+      "number": 477,
+      "name": "Dusknoir"
     },
     {
-      "Number": 478,
-      "Name": "Froslass"
+      "number": 478,
+      "name": "Froslass"
     },
     {
-      "Number": 479,
-      "Name": "Rotom"
+      "number": 479,
+      "name": "Rotom"
     },
     {
-      "Number": 480,
-      "Name": "Uxie"
+      "number": 480,
+      "name": "Uxie"
     },
     {
-      "Number": 481,
-      "Name": "Mesprit"
+      "number": 481,
+      "name": "Mesprit"
     },
     {
-      "Number": 482,
-      "Name": "Azelf"
+      "number": 482,
+      "name": "Azelf"
     },
     {
-      "Number": 483,
-      "Name": "Dialga"
+      "number": 483,
+      "name": "Dialga"
     },
     {
-      "Number": 484,
-      "Name": "Palkia"
+      "number": 484,
+      "name": "Palkia"
     },
     {
-      "Number": 485,
-      "Name": "Heatran"
+      "number": 485,
+      "name": "Heatran"
     },
     {
-      "Number": 486,
-      "Name": "Regigigas"
+      "number": 486,
+      "name": "Regigigas"
     },
     {
-      "Number": 487,
-      "Name": "Giratina"
+      "number": 487,
+      "name": "Giratina"
     },
     {
-      "Number": 488,
-      "Name": "Cresselia"
+      "number": 488,
+      "name": "Cresselia"
     },
     {
-      "Number": 489,
-      "Name": "Phione"
+      "number": 489,
+      "name": "Phione"
     },
     {
-      "Number": 490,
-      "Name": "Manaphy"
+      "number": 490,
+      "name": "Manaphy"
     },
     {
-      "Number": 491,
-      "Name": "Darkrai"
+      "number": 491,
+      "name": "Darkrai"
     },
     {
-      "Number": 492,
-      "Name": "Shaymin"
+      "number": 492,
+      "name": "Shaymin"
     },
     {
-      "Number": 493,
-      "Name": "Arceus"
+      "number": 493,
+      "name": "Arceus"
     },
     {
-      "Number": 494,
-      "Name": "Victini"
+      "number": 494,
+      "name": "Victini"
     },
     {
-      "Number": 495,
-      "Name": "Snivy"
+      "number": 495,
+      "name": "Snivy"
     },
     {
-      "Number": 496,
-      "Name": "Servine"
+      "number": 496,
+      "name": "Servine"
     },
     {
-      "Number": 497,
-      "Name": "Serperior"
+      "number": 497,
+      "name": "Serperior"
     },
     {
-      "Number": 498,
-      "Name": "Tepig"
+      "number": 498,
+      "name": "Tepig"
     },
     {
-      "Number": 499,
-      "Name": "Pignite"
+      "number": 499,
+      "name": "Pignite"
     },
     {
-      "Number": 500,
-      "Name": "Emboar"
+      "number": 500,
+      "name": "Emboar"
     },
     {
-      "Number": 501,
-      "Name": "Oshawott"
+      "number": 501,
+      "name": "Oshawott"
     },
     {
-      "Number": 502,
-      "Name": "Dewott"
+      "number": 502,
+      "name": "Dewott"
     },
     {
-      "Number": 503,
-      "Name": "Samurott"
+      "number": 503,
+      "name": "Samurott"
     },
     {
-      "Number": 504,
-      "Name": "Patrat"
+      "number": 504,
+      "name": "Patrat"
     },
     {
-      "Number": 505,
-      "Name": "Watchog"
+      "number": 505,
+      "name": "Watchog"
     },
     {
-      "Number": 506,
-      "Name": "Lillipup"
+      "number": 506,
+      "name": "Lillipup"
     },
     {
-      "Number": 507,
-      "Name": "Herdier"
+      "number": 507,
+      "name": "Herdier"
     },
     {
-      "Number": 508,
-      "Name": "Stoutland"
+      "number": 508,
+      "name": "Stoutland"
     },
     {
-      "Number": 509,
-      "Name": "Purrloin"
+      "number": 509,
+      "name": "Purrloin"
     },
     {
-      "Number": 510,
-      "Name": "Liepard"
+      "number": 510,
+      "name": "Liepard"
     },
     {
-      "Number": 511,
-      "Name": "Pansage"
+      "number": 511,
+      "name": "Pansage"
     },
     {
-      "Number": 512,
-      "Name": "Simisage"
+      "number": 512,
+      "name": "Simisage"
     },
     {
-      "Number": 513,
-      "Name": "Pansear"
+      "number": 513,
+      "name": "Pansear"
     },
     {
-      "Number": 514,
-      "Name": "Simisear"
+      "number": 514,
+      "name": "Simisear"
     },
     {
-      "Number": 515,
-      "Name": "Panpour"
+      "number": 515,
+      "name": "Panpour"
     },
     {
-      "Number": 516,
-      "Name": "Simipour"
+      "number": 516,
+      "name": "Simipour"
     },
     {
-      "Number": 517,
-      "Name": "Munna"
+      "number": 517,
+      "name": "Munna"
     },
     {
-      "Number": 518,
-      "Name": "Musharna"
+      "number": 518,
+      "name": "Musharna"
     },
     {
-      "Number": 519,
-      "Name": "Pidove"
+      "number": 519,
+      "name": "Pidove"
     },
     {
-      "Number": 520,
-      "Name": "Tranquill"
+      "number": 520,
+      "name": "Tranquill"
     },
     {
-      "Number": 521,
-      "Name": "Unfezant"
+      "number": 521,
+      "name": "Unfezant"
     },
     {
-      "Number": 522,
-      "Name": "Blitzle"
+      "number": 522,
+      "name": "Blitzle"
     },
     {
-      "Number": 523,
-      "Name": "Zebstrika"
+      "number": 523,
+      "name": "Zebstrika"
     },
     {
-      "Number": 524,
-      "Name": "Roggenrola"
+      "number": 524,
+      "name": "Roggenrola"
     },
     {
-      "Number": 525,
-      "Name": "Boldore"
+      "number": 525,
+      "name": "Boldore"
     },
     {
-      "Number": 526,
-      "Name": "Gigalith"
+      "number": 526,
+      "name": "Gigalith"
     },
     {
-      "Number": 527,
-      "Name": "Woobat"
+      "number": 527,
+      "name": "Woobat"
     },
     {
-      "Number": 528,
-      "Name": "Swoobat"
+      "number": 528,
+      "name": "Swoobat"
     },
     {
-      "Number": 529,
-      "Name": "Drilbur"
+      "number": 529,
+      "name": "Drilbur"
     },
     {
-      "Number": 530,
-      "Name": "Excadrill"
+      "number": 530,
+      "name": "Excadrill"
     },
     {
-      "Number": 531,
-      "Name": "Audino"
+      "number": 531,
+      "name": "Audino"
     },
     {
-      "Number": 532,
-      "Name": "Timburr"
+      "number": 532,
+      "name": "Timburr"
     },
     {
-      "Number": 533,
-      "Name": "Gurdurr"
+      "number": 533,
+      "name": "Gurdurr"
     },
     {
-      "Number": 534,
-      "Name": "Conkeldurr"
+      "number": 534,
+      "name": "Conkeldurr"
     },
     {
-      "Number": 535,
-      "Name": "Tympole"
+      "number": 535,
+      "name": "Tympole"
     },
     {
-      "Number": 536,
-      "Name": "Palpitoad"
+      "number": 536,
+      "name": "Palpitoad"
     },
     {
-      "Number": 537,
-      "Name": "Seismitoad"
+      "number": 537,
+      "name": "Seismitoad"
     },
     {
-      "Number": 538,
-      "Name": "Throh"
+      "number": 538,
+      "name": "Throh"
     },
     {
-      "Number": 539,
-      "Name": "Sawk"
+      "number": 539,
+      "name": "Sawk"
     },
     {
-      "Number": 540,
-      "Name": "Sewaddle"
+      "number": 540,
+      "name": "Sewaddle"
     },
     {
-      "Number": 541,
-      "Name": "Swadloon"
+      "number": 541,
+      "name": "Swadloon"
     },
     {
-      "Number": 542,
-      "Name": "Leavanny"
+      "number": 542,
+      "name": "Leavanny"
     },
     {
-      "Number": 543,
-      "Name": "Venipede"
+      "number": 543,
+      "name": "Venipede"
     },
     {
-      "Number": 544,
-      "Name": "Whirlipede"
+      "number": 544,
+      "name": "Whirlipede"
     },
     {
-      "Number": 545,
-      "Name": "Scolipede"
+      "number": 545,
+      "name": "Scolipede"
     },
     {
-      "Number": 546,
-      "Name": "Cottonee"
+      "number": 546,
+      "name": "Cottonee"
     },
     {
-      "Number": 547,
-      "Name": "Whimsicott"
+      "number": 547,
+      "name": "Whimsicott"
     },
     {
-      "Number": 548,
-      "Name": "Petilil"
+      "number": 548,
+      "name": "Petilil"
     },
     {
-      "Number": 549,
-      "Name": "Lilligant"
+      "number": 549,
+      "name": "Lilligant"
     },
     {
-      "Number": 550,
-      "Name": "Basculin"
+      "number": 550,
+      "name": "Basculin"
     },
     {
-      "Number": 551,
-      "Name": "Sandile"
+      "number": 551,
+      "name": "Sandile"
     },
     {
-      "Number": 552,
-      "Name": "Krokorok"
+      "number": 552,
+      "name": "Krokorok"
     },
     {
-      "Number": 553,
-      "Name": "Krookodile"
+      "number": 553,
+      "name": "Krookodile"
     },
     {
-      "Number": 554,
-      "Name": "Darumaka"
+      "number": 554,
+      "name": "Darumaka"
     },
     {
-      "Number": 555,
-      "Name": "Darmanitan"
+      "number": 555,
+      "name": "Darmanitan"
     },
     {
-      "Number": 556,
-      "Name": "Maractus"
+      "number": 556,
+      "name": "Maractus"
     },
     {
-      "Number": 557,
-      "Name": "Dwebble"
+      "number": 557,
+      "name": "Dwebble"
     },
     {
-      "Number": 558,
-      "Name": "Crustle"
+      "number": 558,
+      "name": "Crustle"
     },
     {
-      "Number": 559,
-      "Name": "Scraggy"
+      "number": 559,
+      "name": "Scraggy"
     },
     {
-      "Number": 560,
-      "Name": "Scrafty"
+      "number": 560,
+      "name": "Scrafty"
     },
     {
-      "Number": 561,
-      "Name": "Sigilyph"
+      "number": 561,
+      "name": "Sigilyph"
     },
     {
-      "Number": 562,
-      "Name": "Yamask"
+      "number": 562,
+      "name": "Yamask"
     },
     {
-      "Number": 563,
-      "Name": "Cofagrigus"
+      "number": 563,
+      "name": "Cofagrigus"
     },
     {
-      "Number": 564,
-      "Name": "Tirtouga"
+      "number": 564,
+      "name": "Tirtouga"
     },
     {
-      "Number": 565,
-      "Name": "Carracosta"
+      "number": 565,
+      "name": "Carracosta"
     },
     {
-      "Number": 566,
-      "Name": "Archen"
+      "number": 566,
+      "name": "Archen"
     },
     {
-      "Number": 567,
-      "Name": "Archeops"
+      "number": 567,
+      "name": "Archeops"
     },
     {
-      "Number": 568,
-      "Name": "Trubbish"
+      "number": 568,
+      "name": "Trubbish"
     },
     {
-      "Number": 569,
-      "Name": "Garbodor"
+      "number": 569,
+      "name": "Garbodor"
     },
     {
-      "Number": 570,
-      "Name": "Zorua"
+      "number": 570,
+      "name": "Zorua"
     },
     {
-      "Number": 571,
-      "Name": "Zoroark"
+      "number": 571,
+      "name": "Zoroark"
     },
     {
-      "Number": 572,
-      "Name": "Minccino"
+      "number": 572,
+      "name": "Minccino"
     },
     {
-      "Number": 573,
-      "Name": "Cinccino"
+      "number": 573,
+      "name": "Cinccino"
     },
     {
-      "Number": 574,
-      "Name": "Gothita"
+      "number": 574,
+      "name": "Gothita"
     },
     {
-      "Number": 575,
-      "Name": "Gothorita"
+      "number": 575,
+      "name": "Gothorita"
     },
     {
-      "Number": 576,
-      "Name": "Gothitelle"
+      "number": 576,
+      "name": "Gothitelle"
     },
     {
-      "Number": 577,
-      "Name": "Solosis"
+      "number": 577,
+      "name": "Solosis"
     },
     {
-      "Number": 578,
-      "Name": "Duosion"
+      "number": 578,
+      "name": "Duosion"
     },
     {
-      "Number": 579,
-      "Name": "Reuniclus"
+      "number": 579,
+      "name": "Reuniclus"
     },
     {
-      "Number": 580,
-      "Name": "Ducklett"
+      "number": 580,
+      "name": "Ducklett"
     },
     {
-      "Number": 581,
-      "Name": "Swanna"
+      "number": 581,
+      "name": "Swanna"
     },
     {
-      "Number": 582,
-      "Name": "Vanillite"
+      "number": 582,
+      "name": "Vanillite"
     },
     {
-      "Number": 583,
-      "Name": "Vanillish"
+      "number": 583,
+      "name": "Vanillish"
     },
     {
-      "Number": 584,
-      "Name": "Vanilluxe"
+      "number": 584,
+      "name": "Vanilluxe"
     },
     {
-      "Number": 585,
-      "Name": "Deerling"
+      "number": 585,
+      "name": "Deerling"
     },
     {
-      "Number": 586,
-      "Name": "Sawsbuck"
+      "number": 586,
+      "name": "Sawsbuck"
     },
     {
-      "Number": 587,
-      "Name": "Emolga"
+      "number": 587,
+      "name": "Emolga"
     },
     {
-      "Number": 588,
-      "Name": "Karrablast"
+      "number": 588,
+      "name": "Karrablast"
     },
     {
-      "Number": 589,
-      "Name": "Escavalier"
+      "number": 589,
+      "name": "Escavalier"
     },
     {
-      "Number": 590,
-      "Name": "Foongus"
+      "number": 590,
+      "name": "Foongus"
     },
     {
-      "Number": 591,
-      "Name": "Amoonguss"
+      "number": 591,
+      "name": "Amoonguss"
     },
     {
-      "Number": 592,
-      "Name": "Frillish"
+      "number": 592,
+      "name": "Frillish"
     },
     {
-      "Number": 593,
-      "Name": "Jellicent"
+      "number": 593,
+      "name": "Jellicent"
     },
     {
-      "Number": 594,
-      "Name": "Alomomola"
+      "number": 594,
+      "name": "Alomomola"
     },
     {
-      "Number": 595,
-      "Name": "Joltik"
+      "number": 595,
+      "name": "Joltik"
     },
     {
-      "Number": 596,
-      "Name": "Galvantula"
+      "number": 596,
+      "name": "Galvantula"
     },
     {
-      "Number": 597,
-      "Name": "Ferroseed"
+      "number": 597,
+      "name": "Ferroseed"
     },
     {
-      "Number": 598,
-      "Name": "Ferrothorn"
+      "number": 598,
+      "name": "Ferrothorn"
     },
     {
-      "Number": 599,
-      "Name": "Klink"
+      "number": 599,
+      "name": "Klink"
     },
     {
-      "Number": 600,
-      "Name": "Klang"
+      "number": 600,
+      "name": "Klang"
     },
     {
-      "Number": 601,
-      "Name": "Klinklang"
+      "number": 601,
+      "name": "Klinklang"
     },
     {
-      "Number": 602,
-      "Name": "Tynamo"
+      "number": 602,
+      "name": "Tynamo"
     },
     {
-      "Number": 603,
-      "Name": "Eelektrik"
+      "number": 603,
+      "name": "Eelektrik"
     },
     {
-      "Number": 604,
-      "Name": "Eelektross"
+      "number": 604,
+      "name": "Eelektross"
     },
     {
-      "Number": 605,
-      "Name": "Elgyem"
+      "number": 605,
+      "name": "Elgyem"
     },
     {
-      "Number": 606,
-      "Name": "Beheeyem"
+      "number": 606,
+      "name": "Beheeyem"
     },
     {
-      "Number": 607,
-      "Name": "Litwick"
+      "number": 607,
+      "name": "Litwick"
     },
     {
-      "Number": 608,
-      "Name": "Lampent"
+      "number": 608,
+      "name": "Lampent"
     },
     {
-      "Number": 609,
-      "Name": "Chandelure"
+      "number": 609,
+      "name": "Chandelure"
     },
     {
-      "Number": 610,
-      "Name": "Axew"
+      "number": 610,
+      "name": "Axew"
     },
     {
-      "Number": 611,
-      "Name": "Fraxure"
+      "number": 611,
+      "name": "Fraxure"
     },
     {
-      "Number": 612,
-      "Name": "Haxorus"
+      "number": 612,
+      "name": "Haxorus"
     },
     {
-      "Number": 613,
-      "Name": "Cubchoo"
+      "number": 613,
+      "name": "Cubchoo"
     },
     {
-      "Number": 614,
-      "Name": "Beartic"
+      "number": 614,
+      "name": "Beartic"
     },
     {
-      "Number": 615,
-      "Name": "Cryogonal"
+      "number": 615,
+      "name": "Cryogonal"
     },
     {
-      "Number": 616,
-      "Name": "Shelmet"
+      "number": 616,
+      "name": "Shelmet"
     },
     {
-      "Number": 617,
-      "Name": "Accelgor"
+      "number": 617,
+      "name": "Accelgor"
     },
     {
-      "Number": 618,
-      "Name": "Stunfisk"
+      "number": 618,
+      "name": "Stunfisk"
     },
     {
-      "Number": 619,
-      "Name": "Mienfoo"
+      "number": 619,
+      "name": "Mienfoo"
     },
     {
-      "Number": 620,
-      "Name": "Mienshao"
+      "number": 620,
+      "name": "Mienshao"
     },
     {
-      "Number": 621,
-      "Name": "Druddigon"
+      "number": 621,
+      "name": "Druddigon"
     },
     {
-      "Number": 622,
-      "Name": "Golett"
+      "number": 622,
+      "name": "Golett"
     },
     {
-      "Number": 623,
-      "Name": "Golurk"
+      "number": 623,
+      "name": "Golurk"
     },
     {
-      "Number": 624,
-      "Name": "Pawniard"
+      "number": 624,
+      "name": "Pawniard"
     },
     {
-      "Number": 625,
-      "Name": "Bisharp"
+      "number": 625,
+      "name": "Bisharp"
     },
     {
-      "Number": 626,
-      "Name": "Bouffalant"
+      "number": 626,
+      "name": "Bouffalant"
     },
     {
-      "Number": 627,
-      "Name": "Rufflet"
+      "number": 627,
+      "name": "Rufflet"
     },
     {
-      "Number": 628,
-      "Name": "Braviary"
+      "number": 628,
+      "name": "Braviary"
     },
     {
-      "Number": 629,
-      "Name": "Vullaby"
+      "number": 629,
+      "name": "Vullaby"
     },
     {
-      "Number": 630,
-      "Name": "Mandibuzz"
+      "number": 630,
+      "name": "Mandibuzz"
     },
     {
-      "Number": 631,
-      "Name": "Heatmor"
+      "number": 631,
+      "name": "Heatmor"
     },
     {
-      "Number": 632,
-      "Name": "Durant"
+      "number": 632,
+      "name": "Durant"
     },
     {
-      "Number": 633,
-      "Name": "Deino"
+      "number": 633,
+      "name": "Deino"
     },
     {
-      "Number": 634,
-      "Name": "Zweilous"
+      "number": 634,
+      "name": "Zweilous"
     },
     {
-      "Number": 635,
-      "Name": "Hydreigon"
+      "number": 635,
+      "name": "Hydreigon"
     },
     {
-      "Number": 636,
-      "Name": "Larvesta"
+      "number": 636,
+      "name": "Larvesta"
     },
     {
-      "Number": 637,
-      "Name": "Volcarona"
+      "number": 637,
+      "name": "Volcarona"
     },
     {
-      "Number": 638,
-      "Name": "Cobalion"
+      "number": 638,
+      "name": "Cobalion"
     },
     {
-      "Number": 639,
-      "Name": "Terrakion"
+      "number": 639,
+      "name": "Terrakion"
     },
     {
-      "Number": 640,
-      "Name": "Virizion"
+      "number": 640,
+      "name": "Virizion"
     },
     {
-      "Number": 641,
-      "Name": "Tornadus"
+      "number": 641,
+      "name": "Tornadus"
     },
     {
-      "Number": 642,
-      "Name": "Thundurus"
+      "number": 642,
+      "name": "Thundurus"
     },
     {
-      "Number": 643,
-      "Name": "Reshiram"
+      "number": 643,
+      "name": "Reshiram"
     },
     {
-      "Number": 644,
-      "Name": "Zekrom"
+      "number": 644,
+      "name": "Zekrom"
     },
     {
-      "Number": 645,
-      "Name": "Landorus"
+      "number": 645,
+      "name": "Landorus"
     },
     {
-      "Number": 646,
-      "Name": "Kyurem"
+      "number": 646,
+      "name": "Kyurem"
     },
     {
-      "Number": 647,
-      "Name": "Keldeo"
+      "number": 647,
+      "name": "Keldeo"
     },
     {
-      "Number": 648,
-      "Name": "Meloetta"
+      "number": 648,
+      "name": "Meloetta"
     },
     {
-      "Number": 649,
-      "Name": "Genesect"
+      "number": 649,
+      "name": "Genesect"
     },
     {
-      "Number": 650,
-      "Name": "Chespin"
+      "number": 650,
+      "name": "Chespin"
     },
     {
-      "Number": 651,
-      "Name": "Quilladin"
+      "number": 651,
+      "name": "Quilladin"
     },
     {
-      "Number": 652,
-      "Name": "Chesnaught"
+      "number": 652,
+      "name": "Chesnaught"
     },
     {
-      "Number": 653,
-      "Name": "Fennekin"
+      "number": 653,
+      "name": "Fennekin"
     },
     {
-      "Number": 654,
-      "Name": "Braixen"
+      "number": 654,
+      "name": "Braixen"
     },
     {
-      "Number": 655,
-      "Name": "Delphox"
+      "number": 655,
+      "name": "Delphox"
     },
     {
-      "Number": 656,
-      "Name": "Froakie"
+      "number": 656,
+      "name": "Froakie"
     },
     {
-      "Number": 657,
-      "Name": "Frogadier"
+      "number": 657,
+      "name": "Frogadier"
     },
     {
-      "Number": 658,
-      "Name": "Greninja"
+      "number": 658,
+      "name": "Greninja"
     },
     {
-      "Number": 659,
-      "Name": "Bunnelby"
+      "number": 659,
+      "name": "Bunnelby"
     },
     {
-      "Number": 660,
-      "Name": "Diggersby"
+      "number": 660,
+      "name": "Diggersby"
     },
     {
-      "Number": 661,
-      "Name": "Fletchling"
+      "number": 661,
+      "name": "Fletchling"
     },
     {
-      "Number": 662,
-      "Name": "Fletchinder"
+      "number": 662,
+      "name": "Fletchinder"
     },
     {
-      "Number": 663,
-      "Name": "Talonflame"
+      "number": 663,
+      "name": "Talonflame"
     },
     {
-      "Number": 664,
-      "Name": "Scatterbug"
+      "number": 664,
+      "name": "Scatterbug"
     },
     {
-      "Number": 665,
-      "Name": "Spewpa"
+      "number": 665,
+      "name": "Spewpa"
     },
     {
-      "Number": 666,
-      "Name": "Vivillon"
+      "number": 666,
+      "name": "Vivillon"
     },
     {
-      "Number": 667,
-      "Name": "Litleo"
+      "number": 667,
+      "name": "Litleo"
     },
     {
-      "Number": 668,
-      "Name": "Pyroar"
+      "number": 668,
+      "name": "Pyroar"
     },
     {
-      "Number": 669,
-      "Name": "Flabébé"
+      "number": 669,
+      "name": "Flabï¿½bï¿½"
     },
     {
-      "Number": 670,
-      "Name": "Floette"
+      "number": 670,
+      "name": "Floette"
     },
     {
-      "Number": 671,
-      "Name": "Florges"
+      "number": 671,
+      "name": "Florges"
     },
     {
-      "Number": 672,
-      "Name": "Skiddo"
+      "number": 672,
+      "name": "Skiddo"
     },
     {
-      "Number": 673,
-      "Name": "Gogoat"
+      "number": 673,
+      "name": "Gogoat"
     },
     {
-      "Number": 674,
-      "Name": "Pancham"
+      "number": 674,
+      "name": "Pancham"
     },
     {
-      "Number": 675,
-      "Name": "Pangoro"
+      "number": 675,
+      "name": "Pangoro"
     },
     {
-      "Number": 676,
-      "Name": "Furfrou"
+      "number": 676,
+      "name": "Furfrou"
     },
     {
-      "Number": 677,
-      "Name": "Espurr"
+      "number": 677,
+      "name": "Espurr"
     },
     {
-      "Number": 678,
-      "Name": "Meowstic"
+      "number": 678,
+      "name": "Meowstic"
     },
     {
-      "Number": 679,
-      "Name": "Honedge"
+      "number": 679,
+      "name": "Honedge"
     },
     {
-      "Number": 680,
-      "Name": "Doublade"
+      "number": 680,
+      "name": "Doublade"
     },
     {
-      "Number": 681,
-      "Name": "Aegislash"
+      "number": 681,
+      "name": "Aegislash"
     },
     {
-      "Number": 682,
-      "Name": "Spritzee"
+      "number": 682,
+      "name": "Spritzee"
     },
     {
-      "Number": 683,
-      "Name": "Aromatisse"
+      "number": 683,
+      "name": "Aromatisse"
     },
     {
-      "Number": 684,
-      "Name": "Swirlix"
+      "number": 684,
+      "name": "Swirlix"
     },
     {
-      "Number": 685,
-      "Name": "Slurpuff"
+      "number": 685,
+      "name": "Slurpuff"
     },
     {
-      "Number": 686,
-      "Name": "Inkay"
+      "number": 686,
+      "name": "Inkay"
     },
     {
-      "Number": 687,
-      "Name": "Malamar"
+      "number": 687,
+      "name": "Malamar"
     },
     {
-      "Number": 688,
-      "Name": "Binacle"
+      "number": 688,
+      "name": "Binacle"
     },
     {
-      "Number": 689,
-      "Name": "Barbaracle"
+      "number": 689,
+      "name": "Barbaracle"
     },
     {
-      "Number": 690,
-      "Name": "Skrelp"
+      "number": 690,
+      "name": "Skrelp"
     },
     {
-      "Number": 691,
-      "Name": "Dragalge"
+      "number": 691,
+      "name": "Dragalge"
     },
     {
-      "Number": 692,
-      "Name": "Clauncher"
+      "number": 692,
+      "name": "Clauncher"
     },
     {
-      "Number": 693,
-      "Name": "Clawitzer"
+      "number": 693,
+      "name": "Clawitzer"
     },
     {
-      "Number": 694,
-      "Name": "Helioptile"
+      "number": 694,
+      "name": "Helioptile"
     },
     {
-      "Number": 695,
-      "Name": "Heliolisk"
+      "number": 695,
+      "name": "Heliolisk"
     },
     {
-      "Number": 696,
-      "Name": "Tyrunt"
+      "number": 696,
+      "name": "Tyrunt"
     },
     {
-      "Number": 697,
-      "Name": "Tyrantrum"
+      "number": 697,
+      "name": "Tyrantrum"
     },
     {
-      "Number": 698,
-      "Name": "Amaura"
+      "number": 698,
+      "name": "Amaura"
     },
     {
-      "Number": 699,
-      "Name": "Aurorus"
+      "number": 699,
+      "name": "Aurorus"
     },
     {
-      "Number": 700,
-      "Name": "Sylveon"
+      "number": 700,
+      "name": "Sylveon"
     },
     {
-      "Number": 701,
-      "Name": "Hawlucha"
+      "number": 701,
+      "name": "Hawlucha"
     },
     {
-      "Number": 702,
-      "Name": "Dedenne"
+      "number": 702,
+      "name": "Dedenne"
     },
     {
-      "Number": 703,
-      "Name": "Carbink"
+      "number": 703,
+      "name": "Carbink"
     },
     {
-      "Number": 704,
-      "Name": "Goomy"
+      "number": 704,
+      "name": "Goomy"
     },
     {
-      "Number": 705,
-      "Name": "Sliggoo"
+      "number": 705,
+      "name": "Sliggoo"
     },
     {
-      "Number": 706,
-      "Name": "Goodra"
+      "number": 706,
+      "name": "Goodra"
     },
     {
-      "Number": 707,
-      "Name": "Klefki"
+      "number": 707,
+      "name": "Klefki"
     },
     {
-      "Number": 708,
-      "Name": "Phantump"
+      "number": 708,
+      "name": "Phantump"
     },
     {
-      "Number": 709,
-      "Name": "Trevenant"
+      "number": 709,
+      "name": "Trevenant"
     },
     {
-      "Number": 710,
-      "Name": "Pumpkaboo"
+      "number": 710,
+      "name": "Pumpkaboo"
     },
     {
-      "Number": 711,
-      "Name": "Gourgeist"
+      "number": 711,
+      "name": "Gourgeist"
     },
     {
-      "Number": 712,
-      "Name": "Bergmite"
+      "number": 712,
+      "name": "Bergmite"
     },
     {
-      "Number": 713,
-      "Name": "Avalugg"
+      "number": 713,
+      "name": "Avalugg"
     },
     {
-      "Number": 714,
-      "Name": "Noibat"
+      "number": 714,
+      "name": "Noibat"
     },
     {
-      "Number": 715,
-      "Name": "Noivern"
+      "number": 715,
+      "name": "Noivern"
     },
     {
-      "Number": 716,
-      "Name": "Xerneas"
+      "number": 716,
+      "name": "Xerneas"
     },
     {
-      "Number": 717,
-      "Name": "Yveltal"
+      "number": 717,
+      "name": "Yveltal"
     },
     {
-      "Number": 718,
-      "Name": "Zygarde"
+      "number": 718,
+      "name": "Zygarde"
     },
     {
-      "Number": 719,
-      "Name": "Diancie"
+      "number": 719,
+      "name": "Diancie"
     },
     {
-      "Number": 720,
-      "Name": "Hoopa"
+      "number": 720,
+      "name": "Hoopa"
     },
     {
-      "Number": 721,
-      "Name": "Volcanion"
+      "number": 721,
+      "name": "Volcanion"
     },
     {
-      "Number": 722,
-      "Name": "Rowlet"
+      "number": 722,
+      "name": "Rowlet"
     },
     {
-      "Number": 723,
-      "Name": "Dartrix"
+      "number": 723,
+      "name": "Dartrix"
     },
     {
-      "Number": 724,
-      "Name": "Decidueye"
+      "number": 724,
+      "name": "Decidueye"
     },
     {
-      "Number": 725,
-      "Name": "Litten"
+      "number": 725,
+      "name": "Litten"
     },
     {
-      "Number": 726,
-      "Name": "Torracat"
+      "number": 726,
+      "name": "Torracat"
     },
     {
-      "Number": 727,
-      "Name": "Incineroar"
+      "number": 727,
+      "name": "Incineroar"
     },
     {
-      "Number": 728,
-      "Name": "Popplio"
+      "number": 728,
+      "name": "Popplio"
     },
     {
-      "Number": 729,
-      "Name": "Brionne"
+      "number": 729,
+      "name": "Brionne"
     },
     {
-      "Number": 730,
-      "Name": "Primarina"
+      "number": 730,
+      "name": "Primarina"
     },
     {
-      "Number": 731,
-      "Name": "Pikipek"
+      "number": 731,
+      "name": "Pikipek"
     },
     {
-      "Number": 732,
-      "Name": "Trumbeak"
+      "number": 732,
+      "name": "Trumbeak"
     },
     {
-      "Number": 733,
-      "Name": "Toucannon"
+      "number": 733,
+      "name": "Toucannon"
     },
     {
-      "Number": 734,
-      "Name": "Yungoos"
+      "number": 734,
+      "name": "Yungoos"
     },
     {
-      "Number": 735,
-      "Name": "Gumshoos"
+      "number": 735,
+      "name": "Gumshoos"
     },
     {
-      "Number": 736,
-      "Name": "Grubbin"
+      "number": 736,
+      "name": "Grubbin"
     },
     {
-      "Number": 737,
-      "Name": "Charjabug"
+      "number": 737,
+      "name": "Charjabug"
     },
     {
-      "Number": 738,
-      "Name": "Vikavolt"
+      "number": 738,
+      "name": "Vikavolt"
     },
     {
-      "Number": 739,
-      "Name": "Crabrawler"
+      "number": 739,
+      "name": "Crabrawler"
     },
     {
-      "Number": 740,
-      "Name": "Crabominable"
+      "number": 740,
+      "name": "Crabominable"
     },
     {
-      "Number": 741,
-      "Name": "Oricorio"
+      "number": 741,
+      "name": "Oricorio"
     },
     {
-      "Number": 742,
-      "Name": "Cutiefly"
+      "number": 742,
+      "name": "Cutiefly"
     },
     {
-      "Number": 743,
-      "Name": "Ribombee"
+      "number": 743,
+      "name": "Ribombee"
     },
     {
-      "Number": 744,
-      "Name": "Rockruff"
+      "number": 744,
+      "name": "Rockruff"
     },
     {
-      "Number": 745,
-      "Name": "Lycanroc"
+      "number": 745,
+      "name": "Lycanroc"
     },
     {
-      "Number": 746,
-      "Name": "Wishiwashi"
+      "number": 746,
+      "name": "Wishiwashi"
     },
     {
-      "Number": 747,
-      "Name": "Mareanie"
+      "number": 747,
+      "name": "Mareanie"
     },
     {
-      "Number": 748,
-      "Name": "Toxapex"
+      "number": 748,
+      "name": "Toxapex"
     },
     {
-      "Number": 749,
-      "Name": "Mudbray"
+      "number": 749,
+      "name": "Mudbray"
     },
     {
-      "Number": 750,
-      "Name": "Mudsdale"
+      "number": 750,
+      "name": "Mudsdale"
     },
     {
-      "Number": 751,
-      "Name": "Dewpider"
+      "number": 751,
+      "name": "Dewpider"
     },
     {
-      "Number": 752,
-      "Name": "Araquanid"
+      "number": 752,
+      "name": "Araquanid"
     },
     {
-      "Number": 753,
-      "Name": "Fomantis"
+      "number": 753,
+      "name": "Fomantis"
     },
     {
-      "Number": 754,
-      "Name": "Lurantis"
+      "number": 754,
+      "name": "Lurantis"
     },
     {
-      "Number": 755,
-      "Name": "Morelull"
+      "number": 755,
+      "name": "Morelull"
     },
     {
-      "Number": 756,
-      "Name": "Shiinotic"
+      "number": 756,
+      "name": "Shiinotic"
     },
     {
-      "Number": 757,
-      "Name": "Salandit"
+      "number": 757,
+      "name": "Salandit"
     },
     {
-      "Number": 758,
-      "Name": "Salazzle"
+      "number": 758,
+      "name": "Salazzle"
     },
     {
-      "Number": 759,
-      "Name": "Stufful"
+      "number": 759,
+      "name": "Stufful"
     },
     {
-      "Number": 760,
-      "Name": "Bewear"
+      "number": 760,
+      "name": "Bewear"
     },
     {
-      "Number": 761,
-      "Name": "Bounsweet"
+      "number": 761,
+      "name": "Bounsweet"
     },
     {
-      "Number": 762,
-      "Name": "Steenee"
+      "number": 762,
+      "name": "Steenee"
     },
     {
-      "Number": 763,
-      "Name": "Tsareena"
+      "number": 763,
+      "name": "Tsareena"
     },
     {
-      "Number": 764,
-      "Name": "Comfey"
+      "number": 764,
+      "name": "Comfey"
     },
     {
-      "Number": 765,
-      "Name": "Oranguru"
+      "number": 765,
+      "name": "Oranguru"
     },
     {
-      "Number": 766,
-      "Name": "Passimian"
+      "number": 766,
+      "name": "Passimian"
     },
     {
-      "Number": 767,
-      "Name": "Wimpod"
+      "number": 767,
+      "name": "Wimpod"
     },
     {
-      "Number": 768,
-      "Name": "Golisopod"
+      "number": 768,
+      "name": "Golisopod"
     },
     {
-      "Number": 769,
-      "Name": "Sandygast"
+      "number": 769,
+      "name": "Sandygast"
     },
     {
-      "Number": 770,
-      "Name": "Palossand"
+      "number": 770,
+      "name": "Palossand"
     },
     {
-      "Number": 771,
-      "Name": "Pyukumuku"
+      "number": 771,
+      "name": "Pyukumuku"
     },
     {
-      "Number": 775,
-      "Name": "Komala"
+      "number": 775,
+      "name": "Komala"
     },
     {
-      "Number": 776,
-      "Name": "Turtonator"
+      "number": 776,
+      "name": "Turtonator"
     },
     {
-      "Number": 777,
-      "Name": "Togedemaru"
+      "number": 777,
+      "name": "Togedemaru"
     },
     {
-      "Number": 779,
-      "Name": "Bruxish"
+      "number": 779,
+      "name": "Bruxish"
     },
     {
-      "Number": 780,
-      "Name": "Drampa"
+      "number": 780,
+      "name": "Drampa"
     },
     {
-      "Number": 782,
-      "Name": "Jangmo-o"
+      "number": 782,
+      "name": "Jangmo-o"
     },
     {
-      "Number": 783,
-      "Name": "Hakamo-o"
+      "number": 783,
+      "name": "Hakamo-o"
     },
     {
-      "Number": 784,
-      "Name": "Kommo-o"
+      "number": 784,
+      "name": "Kommo-o"
     },
     {
-      "Number": 785,
-      "Name": "Tapu Koko"
+      "number": 785,
+      "name": "Tapu Koko"
     },
     {
-      "Number": 786,
-      "Name": "Tapu Lele"
+      "number": 786,
+      "name": "Tapu Lele"
     },
     {
-      "Number": 787,
-      "Name": "Tapu Bulu"
+      "number": 787,
+      "name": "Tapu Bulu"
     },
     {
-      "Number": 788,
-      "Name": "Tapu Fini"
+      "number": 788,
+      "name": "Tapu Fini"
     },
     {
-      "Number": 789,
-      "Name": "Cosmog"
+      "number": 789,
+      "name": "Cosmog"
     },
     {
-      "Number": 790,
-      "Name": "Cosmoem"
+      "number": 790,
+      "name": "Cosmoem"
     },
     {
-      "Number": 791,
-      "Name": "Solgaleo"
+      "number": 791,
+      "name": "Solgaleo"
     },
     {
-      "Number": 792,
-      "Name": "Lunala"
+      "number": 792,
+      "name": "Lunala"
     },
     {
-      "Number": 793,
-      "Name": "Nihilego"
+      "number": 793,
+      "name": "Nihilego"
     },
     {
-      "Number": 794,
-      "Name": "Buzzwole"
+      "number": 794,
+      "name": "Buzzwole"
     },
     {
-      "Number": 795,
-      "Name": "Pheromosa"
+      "number": 795,
+      "name": "Pheromosa"
     },
     {
-      "Number": 796,
-      "Name": "Xurkitree"
+      "number": 796,
+      "name": "Xurkitree"
     },
     {
-      "Number": 797,
-      "Name": "Celesteela"
+      "number": 797,
+      "name": "Celesteela"
     },
     {
-      "Number": 798,
-      "Name": "Kartana"
+      "number": 798,
+      "name": "Kartana"
     },
     {
-      "Number": 799,
-      "Name": "Guzzlord"
+      "number": 799,
+      "name": "Guzzlord"
     },
     {
-      "Number": 800,
-      "Name": "Necrozma"
+      "number": 800,
+      "name": "Necrozma"
     },
     {
-      "Number": 802,
-      "Name": "Marshadow"
+      "number": 802,
+      "name": "Marshadow"
     },
     {
-      "Number": 803,
-      "Name": "Poipole"
+      "number": 803,
+      "name": "Poipole"
     },
     {
-      "Number": 808,
-      "Name": "Meltan"
+      "number": 808,
+      "name": "Meltan"
     },
     {
-      "Number": 809,
-      "Name": "Melmetal"
+      "number": 809,
+      "name": "Melmetal"
     },
     {
-      "Number": 819,
-      "Name": "Skwovet"
+      "number": 819,
+      "name": "Skwovet"
     },
     {
-      "Number": 820,
-      "Name": "Greedent"
+      "number": 820,
+      "name": "Greedent"
     },
     {
-      "Number": 831,
-      "Name": "Wooloo"
+      "number": 831,
+      "name": "Wooloo"
     },
     {
-      "Number": 832,
-      "Name": "Dubwool"
+      "number": 832,
+      "name": "Dubwool"
     },
     {
-      "Number": 862,
-      "Name": "Obstagoon"
+      "number": 862,
+      "name": "Obstagoon"
     },
     {
-      "Number": 863,
-      "Name": "Perrserker"
+      "number": 863,
+      "name": "Perrserker"
     },
     {
-      "Number": 865,
-      "Name": "Sirfetchd"
+      "number": 865,
+      "name": "Sirfetchd"
     },
     {
-      "Number": 866,
-      "Name": "Mr Rime"
+      "number": 866,
+      "name": "Mr Rime"
     },
     {
-      "Number": 867,
-      "Name": "Runerigus"
+      "number": 867,
+      "name": "Runerigus"
     },
     {
-      "Number": 870,
-      "Name": "Falinks"
+      "number": 870,
+      "name": "Falinks"
     },
     {
-      "Number": 888,
-      "Name": "Zacian"
+      "number": 888,
+      "name": "Zacian"
     },
     {
-      "Number": 889,
-      "Name": "Zamazenta"
+      "number": 889,
+      "name": "Zamazenta"
     },
     {
-      "Number": 893,
-      "Name": "Zarude"
+      "number": 893,
+      "name": "Zarude"
     },
     {
-      "Number": 894,
-      "Name": "Regieleki"
+      "number": 894,
+      "name": "Regieleki"
     },
     {
-      "Number": 895,
-      "Name": "Regidrago"
+      "number": 895,
+      "name": "Regidrago"
     },
     {
-      "Number": 899,
-      "Name": "Wyrdeer"
+      "number": 899,
+      "name": "Wyrdeer"
     },
     {
-      "Number": 900,
-      "Name": "Kleavor"
+      "number": 900,
+      "name": "Kleavor"
     },
     {
-      "Number": 901,
-      "Name": "Ursaluna"
+      "number": 901,
+      "name": "Ursaluna"
     },
     {
-      "Number": 903,
-      "Name": "Sneasler"
+      "number": 903,
+      "name": "Sneasler"
     },
     {
-      "Number": 904,
-      "Name": "Overqwil"
+      "number": 904,
+      "name": "Overqwil"
     },
     {
-      "Number": 905,
-      "Name": "Enamorus"
+      "number": 905,
+      "name": "Enamorus"
     },
     {
-      "Number": 906,
-      "Name": "Sprigatito"
+      "number": 906,
+      "name": "Sprigatito"
     },
     {
-      "Number": 907,
-      "Name": "Floragato"
+      "number": 907,
+      "name": "Floragato"
     },
     {
-      "Number": 908,
-      "Name": "Meowscarada"
+      "number": 908,
+      "name": "Meowscarada"
     },
     {
-      "Number": 909,
-      "Name": "Fuecoco"
+      "number": 909,
+      "name": "Fuecoco"
     },
     {
-      "Number": 910,
-      "Name": "Crocalor"
+      "number": 910,
+      "name": "Crocalor"
     },
     {
-      "Number": 911,
-      "Name": "Skeledirge"
+      "number": 911,
+      "name": "Skeledirge"
     },
     {
-      "Number": 912,
-      "Name": "Quaxly"
+      "number": 912,
+      "name": "Quaxly"
     },
     {
-      "Number": 913,
-      "Name": "Quaxwell"
+      "number": 913,
+      "name": "Quaxwell"
     },
     {
-      "Number": 914,
-      "Name": "Quaquaval"
+      "number": 914,
+      "name": "Quaquaval"
     },
     {
-      "Number": 915,
-      "Name": "Lechonk"
+      "number": 915,
+      "name": "Lechonk"
     },
     {
-      "Number": 916,
-      "Name": "Oinkologne"
+      "number": 916,
+      "name": "Oinkologne"
     },
     {
-      "Number": 919,
-      "Name": "Nymble"
+      "number": 919,
+      "name": "Nymble"
     },
     {
-      "Number": 920,
-      "Name": "Lokix"
+      "number": 920,
+      "name": "Lokix"
     },
     {
-      "Number": 921,
-      "Name": "Pawmi"
+      "number": 921,
+      "name": "Pawmi"
     },
     {
-      "Number": 922,
-      "Name": "Pawmo"
+      "number": 922,
+      "name": "Pawmo"
     },
     {
-      "Number": 923,
-      "Name": "Pawmot"
+      "number": 923,
+      "name": "Pawmot"
     },
     {
-      "Number": 928,
-      "Name": "Smoliv"
+      "number": 928,
+      "name": "Smoliv"
     },
     {
-      "Number": 929,
-      "Name": "Dolliv"
+      "number": 929,
+      "name": "Dolliv"
     },
     {
-      "Number": 930,
-      "Name": "Arboliva"
+      "number": 930,
+      "name": "Arboliva"
     },
     {
-      "Number": 935,
-      "Name": "Charcadet"
+      "number": 935,
+      "name": "Charcadet"
     },
     {
-      "Number": 936,
-      "Name": "Armarouge"
+      "number": 936,
+      "name": "Armarouge"
     },
     {
-      "Number": 937,
-      "Name": "Ceruledge"
+      "number": 937,
+      "name": "Ceruledge"
     },
     {
-      "Number": 938,
-      "Name": "Tadbulb"
+      "number": 938,
+      "name": "Tadbulb"
     },
     {
-      "Number": 939,
-      "Name": "Bellibolt"
+      "number": 939,
+      "name": "Bellibolt"
     },
     {
-      "Number": 962,
-      "Name": "Bombirdier"
+      "number": 962,
+      "name": "Bombirdier"
     },
     {
-      "Number": 965,
-      "Name": "Varoom"
+      "number": 965,
+      "name": "Varoom"
     },
     {
-      "Number": 966,
-      "Name": "Revavroom"
+      "number": 966,
+      "name": "Revavroom"
     },
     {
-      "Number": 971,
-      "Name": "Greavard"
+      "number": 971,
+      "name": "Greavard"
     },
     {
-      "Number": 972,
-      "Name": "Houndstone"
+      "number": 972,
+      "name": "Houndstone"
     },
     {
-      "Number": 974,
-      "Name": "Cetoddle"
+      "number": 974,
+      "name": "Cetoddle"
     },
     {
-      "Number": 975,
-      "Name": "Cetitan"
+      "number": 975,
+      "name": "Cetitan"
     },
     {
-      "Number": 979,
-      "Name": "Annihilape"
+      "number": 979,
+      "name": "Annihilape"
     },
     {
-      "Number": 980,
-      "Name": "Clodsire"
+      "number": 980,
+      "name": "Clodsire"
     },
     {
-      "Number": 996,
-      "Name": "Frigibax"
+      "number": 996,
+      "name": "Frigibax"
     },
     {
-      "Number": 997,
-      "Name": "Arctibax"
+      "number": 997,
+      "name": "Arctibax"
     },
     {
-      "Number": 998,
-      "Name": "Baxcalibur"
+      "number": 998,
+      "name": "Baxcalibur"
     },
     {
-      "Number": 999,
-      "Name": "Gimmighoul"
+      "number": 999,
+      "name": "Gimmighoul"
     },
     {
-      "Number": 1000,
-      "Name": "Gholdengo"
+      "number": 1000,
+      "name": "Gholdengo"
     }
   ]
 }

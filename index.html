@@ -35,6 +35,7 @@
             var public_url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQN_Y-n3TjjDQtT0B89w8kXJLukdPTEPvxHrfq_qk2T9_dPqwF2_GPNFLASL019D4dvUmPlDyCARcjY/pub?gid=0&single=true&output=csv";
 
             var db = null;
+            var data = null;
 
             function init() {
                 $("#tracker").hide();
@@ -52,11 +53,30 @@
                 });
 
                 $(".trainerButton").on("click", function() {
-                    var data = $(this).attr("data");
+                    var index = $(this).attr("data");
 
-                    db.regions.forEach((region) => {
-                        $(`<div class="card"><div class="card-header">${region.name}<div><div class="card-body></div></div>`);
+                    if (data[index]) {
+                        var needed = data[index].Needed.replaceAll('"','').split('');
+                        db.regions.forEach((region) => {
+                            var result = needed.filter((x) => x >= region.range.min && x <= region.range.max );
+
+                            var header = $(`<div class="card-header">${region.name}<div>`);
+                            var body = $(`<div class="card-body><h5 class="card-title">No needed Pokemon</h5></div>`);
+
+                            if (result.length > 0) {
+                                result.forEach((pokemon) => {
+                                    var name = db.pokemon.find((x) => x.number == pokemon).name;
+                                    body = $(`<div class="row g-0"><div class="col-md-4"><img src="img/${pokemon}.png" class="img-fluid"></div><div class="col-md-8"><div class="card-body"><h4 class="card-title">${name}</h4></div></div>`);
+                                });
+                            }
+                            
+                            var regionCard = $(`<div class="card"></div>`);
+                            regionCard.append(header);
+                            regionCard.append(body);
+
+                            $("#list").append(regionCard);
                     })
+                    }
                 });
             }
 
@@ -64,7 +84,7 @@
 
             function showInfo(results) {
 
-                var data = results.data;
+                data = results.data;
 
                 data.forEach((row, i) => {
                     var btn = $(`<a href="#" class="btn btn-primary trainerButton" data="${i}">${row.Trainer}</a>`)
