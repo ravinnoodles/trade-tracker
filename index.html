@@ -83,7 +83,7 @@
 
                     if (lists[index]) {
                         $("#list").empty();
-                        var needed = lists[index].needs.replaceAll('"','').split(',');
+                        var needed = lists[index].needs;
                         db.regions.forEach((region) => {
                             var result = needed.filter((x) => x >= region.range.min && x <= region.range.max );
 
