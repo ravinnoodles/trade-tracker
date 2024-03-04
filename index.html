@@ -84,7 +84,7 @@
                     if (lists[index]) {
                         $("#list").empty();
                         var needed = lists[index].needs;
-                        db.regions.forEach((region) => {
+                        regions.forEach((region) => {
                             var result = needed.filter((x) => x >= region.range.min && x <= region.range.max );
 
                             var header = $(`<div class="card-header">${region.name}<div>`);
