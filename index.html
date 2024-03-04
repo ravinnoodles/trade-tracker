@@ -74,24 +74,32 @@
                     var index = $(this).attr("data");
 
                     if (data[index]) {
+                        $("#list").empty();
                         var needed = data[index].Needed.replaceAll('"','').split(',');
                         db.regions.forEach((region) => {
                             var result = needed.filter((x) => x >= region.range.min && x <= region.range.max );
 
                             var header = $(`<div class="card-header">${region.name}<div>`);
-                            var body = $(`<div class="card-body></div>`);
+                            var body = $(`<div class="card-body"></div>`);
 
                             if (result.length > 0) {
                                 result.forEach((pokemon) => {
                                     var name = db.pokemon.find((x) => x.number == pokemon).name;
-                                    contents = $(`<div class="row g-0"><div class="col-md-4"><img src="img/${pokemon}.png" class="img-fluid"></div><div class="col-md-8"><div class="card-body"><h4 class="card-title">${name}</h4></div></div>`);
+                                    var row = $(`<div class="row g-0"></div>`);
+                                    var img = $(`<div class="col-md-1"><img src="img/${pokemon}.png" class="img-fluid"></div>`);
+                                    var body = $(`<div class="col-md-5"><div class="card-body"><p class=" h4card-title">${name}</p></div></div>`);
+                                    var controls = $('<div class="col-md-6"><div class="card-body"><div class="btn-group-vertical"></div></div></div>');
+                                    controls.append($('<button type="button" class="btn-danger">remove</button>'));
+                                    row.append(img);
+                                    row.append(body);
+                                    row.append(controls);
                                     body.append(contents)
                                 });
                             } else {
                                 body.append('<h5 class="card-title">No needed Pokemon</h5>');
                             }
                             
-                            var regionCard = $(`<div class="card"></div>`);
+                            var regionCard = $(`<div class="card gy-2"></div>`);
                             regionCard.append(header);
                             regionCard.append(body);
 
