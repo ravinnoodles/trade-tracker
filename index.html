@@ -79,13 +79,16 @@
                             var result = needed.filter((x) => x >= region.range.min && x <= region.range.max );
 
                             var header = $(`<div class="card-header">${region.name}<div>`);
-                            var body = $(`<div class="card-body><h5 class="card-title">No needed Pokemon</h5></div>`);
+                            var body = $(`<div class="card-body></div>`);
 
                             if (result.length > 0) {
                                 result.forEach((pokemon) => {
                                     var name = db.pokemon.find((x) => x.number == pokemon).name;
-                                    body = $(`<div class="row g-0"><div class="col-md-4"><img src="img/${pokemon}.png" class="img-fluid"></div><div class="col-md-8"><div class="card-body"><h4 class="card-title">${name}</h4></div></div>`);
+                                    contents = $(`<div class="row g-0"><div class="col-md-4"><img src="img/${pokemon}.png" class="img-fluid"></div><div class="col-md-8"><div class="card-body"><h4 class="card-title">${name}</h4></div></div>`);
+                                    body.append(contents)
                                 });
+                            } else {
+                                body.append('<h5 class="card-title">No needed Pokemon</h5>');
                             }
                             
                             var regionCard = $(`<div class="card"></div>`);
