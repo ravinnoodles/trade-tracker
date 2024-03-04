@@ -25,6 +25,12 @@
     
                     </div>
                 </section>
+                <section id="add">
+                    <div class="input-group mb-3">
+                        <input id="add-name" type="text" class="form-control" placeholder="Enter the name of a Pokemon needed for trade" aria-label="Enter the name of a Pokemon needed for trade" aria-describedby="button-add">
+                        <button class="btn btn-outline-success" type="button" id="button-add">Add Pokemon</button>
+                    </div>
+                </section>
                 <section id="list">
     
                 </section>
@@ -37,6 +43,7 @@
             var pokemon = null;
             var noTradeAllowed = null;
             var lists = null;
+            var currentContext;
 
             $("#tracker").hide();
 
@@ -82,10 +89,25 @@
 
                 $(".trainerButton").on("click", function() {
                     var index = $(this).attr("data");
+                    renderList(index);
+                });
 
-                    if (lists[index]) {
+                $("#add-name").val(null);
+
+                $("#button-add").on("click", function() {
+                    var name = $("#add-name").val();
+                    $("#add-name").val(null);
+                    addPokemon(name);
+                })
+                
+            }
+
+            function renderList(index) {
+                if (lists[index]) {
+                        currentContext = index;
                         $("#list").empty();
                         var needed = lists[index].needs;
+                        populateAdd(lists[index].needs);
                         regions.forEach((region) => {
                             var result = needed.filter((x) => x >= region.range.min && x <= region.range.max );
 
@@ -114,10 +136,26 @@
                             regionCard.append(body);
 
                             $("#list").append(regionCard);
-                    })
+                        })
                     }
-                });
-                
+            }
+
+            function populateAdd(alreadySelected){
+                var choices = pokemon.filter((x) => !noTradeAllowed.includes(x.number)).filter((x) => !alreadySelected.includes(x.number));
+                var names = choices.map((x) => x.name);
+
+                $("#add-name").autocomplete({
+                    source: names
+                })
+            }
+
+            function addPokemon(name) {
+                var mon = pokemon.find((x) => x.name === name);
+                if (mon) {
+                    lists[currentContext].needs.push(mon.number);
+                    updateDb();
+                    renderList(currentContext);
+                }
             }
 
         </script>
