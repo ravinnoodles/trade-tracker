@@ -91,10 +91,10 @@
                             var body = $(`<div class="card-body"></div>`);
 
                             if (result.length > 0) {
-                                result.forEach((pokemon, i) => {
-                                    var name = pokemon.find((x) => x.number == pokemon).name;
-                                    var row = $(`<div id="${pokemon}" class="row g-0"></div>`);
-                                    var img = $(`<div class="col-md-1"><img src="img/${pokemon}.png" class="img-fluid"></div>`);
+                                result.forEach((n, i) => {
+                                    var name = n.find((x) => x.number == n).name;
+                                    var row = $(`<div id="${n}" class="row g-0"></div>`);
+                                    var img = $(`<div class="col-md-1"><img src="img/${n}.png" class="img-fluid"></div>`);
                                     var cardbody = $(`<div class="col-md-2"><div class="card-body"><p class=" h4card-title">${name}</p></div></div>`);
                                     var controls = $('<div class="col-md-9"><div class="card-body"><div class="btn-group-vertical"></div></div></div>');
                                     controls.append($('<button type="button" class="btn btn-danger">remove</button>'));
