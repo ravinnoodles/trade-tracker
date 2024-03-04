@@ -164,7 +164,7 @@
             }
 
             function removePokemon(number) {
-                var mon = pokemon.find((x) => x.number === number);
+                var mon = pokemon.find((x) => x.number == number);
                 if (mon) {
                     lists[currentContext].needs = list[currentContext].needs.filter((X) => x != number);
                     updateDb();
