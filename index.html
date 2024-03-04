@@ -92,7 +92,7 @@
 
                             if (result.length > 0) {
                                 result.forEach((pokemon, i) => {
-                                    var name = db.pokemon.find((x) => x.number == pokemon).name;
+                                    var name = pokemon.find((x) => x.number == pokemon).name;
                                     var row = $(`<div id="${pokemon}" class="row g-0"></div>`);
                                     var img = $(`<div class="col-md-1"><img src="img/${pokemon}.png" class="img-fluid"></div>`);
                                     var cardbody = $(`<div class="col-md-2"><div class="card-body"><p class=" h4card-title">${name}</p></div></div>`);
