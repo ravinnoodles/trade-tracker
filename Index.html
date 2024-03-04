@@ -2,8 +2,36 @@
 <html>
     <head>
         <title>Trade Tracker</title>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+        <script type="text/javascript" src="js/papaparse.min.js"></script>
     </head>
     <body>
         Trade Tracker
+        <br/>
+        <table>
+            <tr>
+                <td id="trainer"></td>
+            </tr>
+        </table>
+        <script type="text/javascript">
+            var public_url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQN_Y-n3TjjDQtT0B89w8kXJLukdPTEPvxHrfq_qk2T9_dPqwF2_GPNFLASL019D4dvUmPlDyCARcjY/pub?gid=0&single=true&output=csv";
+
+            function init() {
+                Papa.parse(public_url, {
+                    download: true,
+                    header: true,
+                    complete: showInfo
+                })
+            }
+
+            window.addEventListener('DOMContentLoaded', init)
+
+            function showInfo(results) {
+                var data = results.data;
+
+                $("#trainer").html(data[0].Trainer);
+            }
+
+        </script>
     </body>
 </html>
