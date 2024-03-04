@@ -158,6 +158,10 @@
                 }
             }
 
+            function updateDb() {
+                firebase.database().ref(`lists/${currentContext}`).set(lists[currentContext]);
+            }
+
         </script>
     </body>
 </html>
