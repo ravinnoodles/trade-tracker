@@ -87,11 +87,11 @@
                                     var name = db.pokemon.find((x) => x.number == pokemon).name;
                                     var row = $(`<div class="row g-0"></div>`);
                                     var img = $(`<div class="col-md-1"><img src="img/${pokemon}.png" class="img-fluid"></div>`);
-                                    var body = $(`<div class="col-md-5"><div class="card-body"><p class=" h4card-title">${name}</p></div></div>`);
+                                    var cardbody = $(`<div class="col-md-5"><div class="card-body"><p class=" h4card-title">${name}</p></div></div>`);
                                     var controls = $('<div class="col-md-6"><div class="card-body"><div class="btn-group-vertical"></div></div></div>');
                                     controls.append($('<button type="button" class="btn-danger">remove</button>'));
                                     row.append(img);
-                                    row.append(body);
+                                    row.append(cardbody);
                                     row.append(controls);
                                     body.append(row)
                                 });
