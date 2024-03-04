@@ -9,14 +9,25 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     <body>
-        <h1>Trade Tracker</h1>
+        <div class="col-lg-8 mx-auto p-4 py-md-5">
+            <header>
+                <h3>Trade Tracker</h3>
+            </header>
+            <section>
+                <div class="btn-group" id="trainers">
+
+                </div>
+            </section>
+        </div>
+        
+        
         <script type="text/javascript">
             var public_url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQN_Y-n3TjjDQtT0B89w8kXJLukdPTEPvxHrfq_qk2T9_dPqwF2_GPNFLASL019D4dvUmPlDyCARcjY/pub?gid=0&single=true&output=csv";
 
             var db = null;
 
             function init() {
-                $.getJson("js/data.json", function(data) {
+                $.getJSON("js/data.json", function(data) {
                     if (!db) {
                         db = data;
                     }
@@ -33,6 +44,12 @@
 
             function showInfo(results) {
                 var data = results.data;
+
+                data.forEach((row) => {
+                    var btn = $(`<a href="#" class="btn btn-primary">${row.Trainer}</a>`)
+                    $("#trainers").append(btn);
+                })
+                
             }
 
         </script>
