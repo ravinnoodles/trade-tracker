@@ -85,11 +85,11 @@
                             if (result.length > 0) {
                                 result.forEach((pokemon) => {
                                     var name = db.pokemon.find((x) => x.number == pokemon).name;
-                                    var row = $(`<div class="row g-0"></div>`);
+                                    var row = $(`<div id="${pokemon}" class="row g-0"></div>`);
                                     var img = $(`<div class="col-md-1"><img src="img/${pokemon}.png" class="img-fluid"></div>`);
-                                    var cardbody = $(`<div class="col-md-5"><div class="card-body"><p class=" h4card-title">${name}</p></div></div>`);
-                                    var controls = $('<div class="col-md-6"><div class="card-body"><div class="btn-group-vertical"></div></div></div>');
-                                    controls.append($('<button type="button" class="btn-danger">remove</button>'));
+                                    var cardbody = $(`<div class="col-md-2"><div class="card-body"><p class=" h4card-title">${name}</p></div></div>`);
+                                    var controls = $('<div class="col-md-9"><div class="card-body"><div class="btn-group-vertical"></div></div></div>');
+                                    controls.append($('<button type="button" class="btn btn-danger">remove</button>'));
                                     row.append(img);
                                     row.append(cardbody);
                                     row.append(controls);
@@ -99,7 +99,7 @@
                                 body.append('<h5 class="card-title">No needed Pokemon</h5>');
                             }
                             
-                            var regionCard = $(`<div class="card gy-2"></div>`);
+                            var regionCard = $(`<div class="card my-2"></div>`);
                             regionCard.append(header);
                             regionCard.append(body);
 
