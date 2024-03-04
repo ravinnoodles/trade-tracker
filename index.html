@@ -62,7 +62,7 @@
                     lists = data.val().lists;
 
                     lists.forEach((row, i) => {
-                        var btn = $(`<a href="#" class="btn btn-primary trainerButton" data="${i}">${row.Trainer}</a>`)
+                        var btn = $(`<a href="#" class="btn btn-primary trainerButton" data="${i}">${row.trainer}</a>`)
                         $("#trainers").append(btn);
                     });
 
@@ -81,9 +81,9 @@
                 $(".trainerButton").on("click", function() {
                     var index = $(this).attr("data");
 
-                    if (data[index]) {
+                    if (lists[index]) {
                         $("#list").empty();
-                        var needed = data[index].Needed.replaceAll('"','').split(',');
+                        var needed = lists[index].needs.replaceAll('"','').split(',');
                         db.regions.forEach((region) => {
                             var result = needed.filter((x) => x >= region.range.min && x <= region.range.max );
 
@@ -91,7 +91,7 @@
                             var body = $(`<div class="card-body"></div>`);
 
                             if (result.length > 0) {
-                                result.forEach((pokemon) => {
+                                result.forEach((pokemon, i) => {
                                     var name = db.pokemon.find((x) => x.number == pokemon).name;
                                     var row = $(`<div id="${pokemon}" class="row g-0"></div>`);
                                     var img = $(`<div class="col-md-1"><img src="img/${pokemon}.png" class="img-fluid"></div>`);
