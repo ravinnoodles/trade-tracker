@@ -13,10 +13,20 @@
             <header>
                 <h3>Trade Tracker</h3>
             </header>
-            <section>
-                <div class="btn-group" id="trainers">
-
+            <section id="loading">
+                <div class="col-lg-6 mx-auto p-3 py-md-3">
+                    loading...
                 </div>
+            </section>
+            <section id="tracker">
+                <section>
+                    <div class="btn-group" id="trainers">
+    
+                    </div>
+                </section>
+                <section id="list">
+    
+                </section>
             </section>
         </div>
         
@@ -27,6 +37,8 @@
             var db = null;
 
             function init() {
+                $("#tracker").hide();
+
                 $.getJSON("js/data.json", function(data) {
                     if (!db) {
                         db = data;
@@ -38,17 +50,32 @@
                         complete: showInfo
                     })
                 });
+
+                $(".trainerButton").on("click", function() {
+                    var data = $(this).attr("data");
+
+                    db.regions.forEach((region) => {
+                        $(`<div class="card"><div class="card-header">${region.name}<div><div class="card-body></div></div>`);
+                    })
+                });
             }
 
             window.addEventListener('DOMContentLoaded', init)
 
             function showInfo(results) {
+
                 var data = results.data;
 
-                data.forEach((row) => {
-                    var btn = $(`<a href="#" class="btn btn-primary">${row.Trainer}</a>`)
+                data.forEach((row, i) => {
+                    var btn = $(`<a href="#" class="btn btn-primary trainerButton" data="${i}">${row.Trainer}</a>`)
                     $("#trainers").append(btn);
                 })
+                
+                $("#trainers[data='0']").click();
+
+                $("#loading").fadeOut(400, function (){
+                    $("#tracker").show();
+                });
                 
             }
 
