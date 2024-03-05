@@ -10,36 +10,38 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     <body>
-        <div class="col-lg-8 mx-auto p-4 py-md-5">
-            <header>
-                <h3>Trade Tracker</h3>
-            </header>
-            <section id="loading">
-                <div class="col-lg-6 mx-auto p-3 py-md-3">
-                    loading...
-                </div>
-            </section>
-            <section id="tracker">
-                <section class="my-2">
-                    <div class="btn-group" id="trainers">
-    
+        <div class="site">
+            <div class="col-lg-8 mx-auto p-4 py-md-5">
+                <header>
+                    <h3>Trade Tracker</h3>
+                </header>
+                <section id="loading">
+                    <div class="col-lg-6 mx-auto p-3 py-md-3">
+                        loading...
                     </div>
                 </section>
-                <section id="add">
-                    <div class="input-group mb-3">
-                        <input id="add-name" type="text" class="form-control" placeholder="Enter the name of a Pokemon needed for trade" aria-label="Enter the name of a Pokemon needed for trade" aria-describedby="button-add">
-                        <button class="btn btn-success" type="button" id="button-add">Add Pokemon</button>
-                    </div>
+                <section id="tracker">
+                    <section class="my-2">
+                        <div class="btn-group" id="trainers">
+        
+                        </div>
+                    </section>
+                    <section id="add">
+                        <div class="input-group mb-3">
+                            <input id="add-name" type="text" class="form-control" placeholder="Enter the name of a Pokemon needed for trade" aria-label="Enter the name of a Pokemon needed for trade" aria-describedby="button-add">
+                            <button class="btn btn-success" type="button" id="button-add">Add Pokemon</button>
+                        </div>
+                    </section>
+                    <section id="list">
+        
+                    </section>
                 </section>
-                <section id="list">
-    
-                </section>
-            </section>
+            </div>
         </div>
         <style>
-            body {
+            .site {
                 background: url("img/site/shaymin-catch.jpg");
-                background-size: cover;
+                transform: scale(2,2);
                 background-attachment: fixed;
                 background-position: center;
             }
