@@ -39,11 +39,19 @@
             </div>
         
         <style>
+
             .site {
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100vw;
+                height: 100vh;
+                image-orientation: from-image;
                 background: url("img/site/shaymin-catch.jpg");
-                transform: scale(2,2);
-                background-attachment: fixed;
-                background-position: center;
+                background-repeat: no-repeat;
+                background-position: left;
+                background-size: contain;
+                z-index: -1;
             }
         </style>
         <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase.js"></script>
