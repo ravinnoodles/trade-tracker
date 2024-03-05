@@ -180,7 +180,7 @@
             }
 
             function addPokemon(name) {
-                var mon = pokemon.find((x) => x.name === name);
+                var mon = pokemon.find((x) => x.name.toLowerCase() === name.toLowerCase());
                 if (mon) {
                     if(!lists[currentContext].needs){
                         lists[currentContext].needs = [];
