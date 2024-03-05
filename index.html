@@ -94,7 +94,6 @@
             function showInfo() {             
 
                 $("#loading").fadeOut(400, function (){
-                    $("#add").show();
                     $("#tracker").show();
                 });
 
@@ -115,6 +114,7 @@
 
             function renderList(index) {
                 if (lists[index]) {
+                    $("#add").show();
                     currentContext = index;
                     $("#list").empty();
                     var needed = lists[index].needs;
