@@ -125,7 +125,7 @@
                     regions.forEach((region) => {
                         var result = needed.filter((x) => x >= region.range.min && x <= region.range.max );
 
-                        var header = $(`<div class="card-header">${region.name}</div>`);
+                        var header = $(`<h5 class="card-header txt-bg-warning">${region.name}</h5>);
                         var body = $(`<div class="card-body"></div>`);
 
                         if (result.length > 0) {
@@ -172,6 +172,9 @@
             function addPokemon(name) {
                 var mon = pokemon.find((x) => x.name === name);
                 if (mon) {
+                    if(!lists[currentContext].needs){
+                        lists[currentContext].needs = [];
+                    }
                     lists[currentContext].needs.push(mon.number);
                     updateDb();
                     renderList(currentContext);
