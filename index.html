@@ -118,6 +118,9 @@
                     currentContext = index;
                     $("#list").empty();
                     var needed = lists[index].needs;
+                    if(!needed) {
+                        needed = [];
+                    }
                     populateAdd(lists[index].needs);
                     regions.forEach((region) => {
                         var result = needed.filter((x) => x >= region.range.min && x <= region.range.max );
