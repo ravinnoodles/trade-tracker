@@ -155,6 +155,9 @@
             }
 
             function populateAdd(alreadySelected){
+                if (!alreadySelected) {
+                    alreadySelected = [];
+                }
                 var choices = pokemon.filter((x) => !noTradeAllowed.includes(x.number)).filter((x) => !alreadySelected.includes(x.number));
                 var names = choices.map((x) => x.name);
 
