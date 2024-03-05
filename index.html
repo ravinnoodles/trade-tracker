@@ -44,8 +44,8 @@
                 position: fixed;
                 top: 0;
                 left: 0;
-                width: 100vw;
-                height: 100vh;
+                width: 300vw;
+                height: 300vh;
                 image-orientation: from-image;
                 background: url("img/site/shaymin-catch.jpg");
                 background-repeat: no-repeat;
@@ -135,7 +135,7 @@
                     regions.forEach((region) => {
                         var result = needed.filter((x) => x >= region.range.min && x <= region.range.max );
 
-                        var header = $(`<h5 class="card-header text-bg-warning">${region.name}</h5>`);
+                        var header = $(`<h5 class="card-header text-bg-info">${region.name}</h5>`);
                         var body = $(`<div class="card-body"></div>`);
 
                         if (result.length > 0) {
