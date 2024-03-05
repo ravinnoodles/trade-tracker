@@ -28,7 +28,7 @@
                 <section id="add">
                     <div class="input-group mb-3">
                         <input id="add-name" type="text" class="form-control" placeholder="Enter the name of a Pokemon needed for trade" aria-label="Enter the name of a Pokemon needed for trade" aria-describedby="button-add">
-                        <button class="btn btn-outline-success" type="button" id="button-add">Add Pokemon</button>
+                        <button class="btn btn-success" type="button" id="button-add">Add Pokemon</button>
                     </div>
                 </section>
                 <section id="list">
@@ -36,7 +36,13 @@
                 </section>
             </section>
         </div>
-        
+        <style>
+            body {
+                background: url("img/site/shaymin-catch.jpg");
+                background-size: cover;
+                background-attachment: fixed;
+            }
+        </style>
         <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase.js"></script>
         <script type="text/javascript">
             var regions = null;
@@ -46,6 +52,7 @@
             var currentContext;
 
             $("#tracker").hide();
+            $("#add").hide();
 
             // Your web app's Firebase configuration
             const firebaseConfig = {
@@ -86,6 +93,7 @@
             function showInfo() {             
 
                 $("#loading").fadeOut(400, function (){
+                    $("#add").show();
                     $("#tracker").show();
                 });
 
