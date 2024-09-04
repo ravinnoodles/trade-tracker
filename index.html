@@ -139,7 +139,7 @@
                         var body = $(`<div class="card-body"></div>`);
 
                         if (result.length > 0) {
-                            result.forEach((n, i) => {
+                            result.sort((a,b) => { return a.number - b.number }).forEach((n, i) => {
                                 var name = pokemon.find((x) => x.number == n).name;
                                 var row = $(`<div id="${n}" class="row g-0"></div>`);
                                 var img = $(`<div class="col-md-2"><img src="img/${n}.png" class="img-fluid"></div>`);
